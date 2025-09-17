@@ -1,0 +1,3387 @@
+# Translation of Plugins - Pods &#8211; Custom Content Types and Fields - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - Pods &#8211; Custom Content Types and Fields - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-26 02:16:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - Pods &#8211; Custom Content Types and Fields - Stable (latest release)\n"
+
+#: classes/fields/password.php:34
+msgid "Password"
+msgstr "Kata sandi"
+
+#: classes/fields/phone.php:34
+msgid "Phone"
+msgstr "Telepon"
+
+#: classes/fields/website.php:33
+msgid "Website"
+msgstr "Situs web"
+
+#: classes/fields/file.php:286
+msgid "None"
+msgstr "Kosong"
+
+#: classes/fields/date.php:44
+msgid "Date"
+msgstr "Tanggal"
+
+#: classes/fields/email.php:34
+msgid "E-mail"
+msgstr "E-mail"
+
+#: classes/fields/file.php:285
+msgid "Media File"
+msgstr "Berkas Media"
+
+#: classes/fields/date.php:43 classes/fields/datetime.php:52
+#: classes/fields/datetime.php:53 classes/fields/time.php:49
+msgid "Date / Time"
+msgstr "Tanggal / Waktu"
+
+#: classes/fields/currency.php:432
+msgid "Malaysian Ringgit"
+msgstr "Ringgit Malaysia"
+
+#: classes/fields/currency.php:516
+msgid "Turkish Lira"
+msgstr "Lira Turki"
+
+#: classes/fields/currency.php:534
+msgid "Vietnamese Dong"
+msgstr "Dong Vietnam"
+
+#: classes/fields/currency.php:426
+msgid "Korean Won"
+msgstr "Won Korea"
+
+#: classes/fields/currency.php:510
+msgid "Thai Baht"
+msgstr "Baht Thailand"
+
+#: classes/fields/file.php:43
+msgid "File / Image / Video"
+msgstr "Berkas / Gambar / Video"
+
+#: classes/fields/currency.php:420
+msgid "Japanese Yen"
+msgstr "Yen Jepang"
+
+#: classes/fields/currency.php:402
+msgid "Indian Rupee"
+msgstr "Rupee India"
+
+#: classes/fields/currency.php:492
+msgid "South African Rand"
+msgstr "Rand Afrika Selatan"
+
+#: classes/fields/currency.php:480
+msgid "Swedish Krona"
+msgstr "Krona Swedia"
+
+#: classes/fields/currency.php:456
+msgid "Norwegian Krone"
+msgstr "Krone Norwegia"
+
+#: classes/fields/currency.php:378
+msgid "Danish Krone"
+msgstr "Krone Denmark"
+
+#: classes/fields/currency.php:498
+msgid "Swiss Franc"
+msgstr "Franc Swiss"
+
+#: classes/fields/currency.php:474
+msgid "Russian Ruble"
+msgstr "Ruble Rusia"
+
+#: classes/fields/currency.php:450
+msgid "New Zealand Dollar"
+msgstr "Dolar Selandia Baru"
+
+#: classes/fields/currency.php:486
+msgid "Singapore Dollar"
+msgstr "Dolar Singapura"
+
+#: classes/fields/currency.php:336
+msgid "Australian Dollar"
+msgstr "Dolar Australia"
+
+#: classes/fields/currency.php:354
+msgid "Canadian Dollar"
+msgstr "Dolar Kanada"
+
+#: classes/fields/currency.php:348
+msgid "British Pound"
+msgstr "Pound Inggris"
+
+#: classes/fields/currency.php:384
+msgid "Euro"
+msgstr "Euro"
+
+#: classes/fields/currency.php:522
+msgid "US Dollar"
+msgstr "Dolar Amerika Serikat"
+
+#: classes/fields/currency.php:42
+msgid "Currency"
+msgstr "Mata uang"
+
+#: classes/fields/avatar.php:40
+msgid "Avatar"
+msgstr "Avatar"
+
+#: classes/fields/boolean.php:30
+msgid "Yes / No"
+msgstr "Ya / Tidak"
+
+#: classes/fields/time.php:50
+msgid "Time"
+msgstr "Waktu"
+
+#: classes/fields/pick.php:97
+msgid "Relationship"
+msgstr "Relasi"
+
+#: classes/fields/paragraph.php:38
+msgid "Plain Paragraph Text"
+msgstr "Teks Paragraf Polos"
+
+#: classes/fields/number.php:34
+msgid "Plain Number"
+msgstr "Angka Polos"
+
+#: classes/fields/text.php:34
+msgid "Plain Text"
+msgstr "Teks Polos"
+
+#: classes/fields/color.php:28
+msgid "Color Picker"
+msgstr "Pemilih Warna"
+
+#: classes/PodsInit.php:2048 src/Pods/Admin/Config/Pod.php:418
+msgid "Uploaded to this %s"
+msgstr "Diunggah ke %s"
+
+#: classes/PodsInit.php:2051 classes/PodsInit.php:2076
+#: src/Pods/Admin/Config/Pod.php:477
+msgid "%s list"
+msgstr "daftar %s"
+
+#: classes/PodsInit.php:2050 classes/PodsInit.php:2075
+msgid "%s navigation"
+msgstr "navigasi %s"
+
+#: classes/PodsInit.php:2049
+msgid "Filter %s lists"
+msgstr "Filter daftar %s"
+
+#: classes/PodsInit.php:2074 src/Pods/Admin/Config/Pod.php:554
+msgid "No %s"
+msgstr "Tidak ada %s"
+
+#: classes/PodsInit.php:2045 src/Pods/Admin/Config/Pod.php:391
+msgid "%s Archives"
+msgstr "Arsip %s"
+
+#: classes/PodsInit.php:2047 src/Pods/Admin/Config/Pod.php:409
+msgid "Insert into %s"
+msgstr "Masukkan ke %s"
+
+#: classes/PodsInit.php:2044
+msgid "Use as featured image"
+msgstr "Gunakan sebagai gambar istimewa"
+
+#: classes/PodsInit.php:2042
+msgid "Set featured image"
+msgstr "Buat gambar utama"
+
+#: classes/PodsInit.php:2043
+msgid "Remove featured image"
+msgstr "Hapus gambar andalan"
+
+#: classes/PodsAdmin.php:4565 src/Pods/Integrations/WPGraphQL/Settings.php:133
+#: src/Pods/Integrations/WPGraphQL/Settings.php:150
+#: src/Pods/Integrations/WPGraphQL/Settings.php:207
+#: src/Pods/Integrations/WPGraphQL/Settings.php:240
+msgid "ID only"
+msgstr "Hanya ID"
+
+#: classes/PodsAdmin.php:4574
+msgid "Depth"
+msgstr "Kedalaman"
+
+#: classes/PodsAdmin.php:4554
+msgid "Response Type"
+msgstr "Jenis Respon"
+
+#: classes/PodsAdmin.php:4364 classes/PodsAdmin.php:4620
+msgid "REST API"
+msgstr "REST API"
+
+#: classes/PodsAdmin.php:4388
+msgid "Add REST API support for this Pod."
+msgstr "Tambahkan dukungan REST API untuk Pod ini."
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:20 ui/admin/upgrade/upgrade_2_1_0.php:20
+msgid "Getting Started"
+msgstr "Memulai"
+
+#: src/Pods/Admin/Config/Field.php:219
+msgid "Required"
+msgstr "Wajib"
+
+#: src/Pods/Admin/Config/Field.php:538
+msgid "-- Select Table --"
+msgstr "-- Pilih Tabel --"
+
+#: src/Pods/Admin/Config/Pod.php:149 ui/admin/setup-add.php:225
+msgid "Singular Label"
+msgstr "Label Tunggal"
+
+#: ui/admin/setup-add.php:237
+msgid "Plural Label"
+msgstr "Label Jamak"
+
+#: ui/admin/setup-add.php:260
+msgid "Menu Label"
+msgstr "Label Menu"
+
+#: ui/admin/setup-add.php:473
+msgid "Post Type"
+msgstr "Jenis Post"
+
+#: ui/admin/setup-add.php:416
+msgid "Post Types (Posts, Pages, etc..)"
+msgstr "Jenis Post (Posts, Pages, dll..)"
+
+#: ui/admin/setup-add.php:514
+msgid "Taxonomy"
+msgstr "Taksonomi"
+
+#: src/Pods/Blocks/Types/Field.php:103 src/Pods/Blocks/Types/Form.php:163
+#: src/Pods/Blocks/Types/Item_List.php:211
+#: src/Pods/Blocks/Types/Item_Single.php:167
+#: src/Pods/Blocks/Types/Item_Single_List_Fields.php:67
+#: src/Pods/Blocks/Types/Related_Item_List.php:94 ui/admin/setup-add.php:317
+#: ui/admin/setup-add.php:336
+msgid "Pod Name"
+msgstr "Nama Pod"
+
+#: src/Pods/Whatsit/Block.php:40
+msgid "Options"
+msgstr "Opsi"
+
+#: src/Pods/Admin/Config/Field.php:192
+msgid "Related Table"
+msgstr "Tabel Yang Berhubungan"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:139
+#: ui/admin/upgrade/upgrade_2_0_0.php:247
+msgid "Content"
+msgstr "Konten"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:172
+msgid "1.x Updates"
+msgstr "Pembaharuan 1.x"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:260
+#: ui/admin/upgrade/upgrade_2_1_0.php:107
+msgid "Cleanup"
+msgstr "Pembersihan"
+
+#: ui/admin/upgrade/upgrade_2_1_0.php:122
+msgid "Upgrade Complete!"
+msgstr "Peningkatan Selesai!"
+
+#: ui/admin/widgets/list.php:82
+msgid "Before Content"
+msgstr "Sebelum Konten"
+
+#: ui/admin/widgets/list.php:94
+msgid "After Content"
+msgstr "Setelah Konten"
+
+#: classes/fields/color.php:39 classes/fields/color.php:97
+#: ui/fields/color.php:21
+msgid "Select Color"
+msgstr "Pilih Warna"
+
+#: ui/fields/color.php:22
+msgid "Current Color"
+msgstr "Warna Saat Ini"
+
+#: classes/fields/file.php:580 classes/PodsI18n.php:186
+msgid "Allowed Files"
+msgstr "Berkas Yang Diijinkan"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:272
+#: ui/admin/upgrade/upgrade_2_1_0.php:119
+msgid "Start using Pods"
+msgstr "Mulai menggunakan Pods"
+
+#. Author of the plugin
+#: init.php
+msgid "Pods Framework Team"
+msgstr "Pods Framework Team"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:275
+msgid "Migration Complete!"
+msgstr "Migrasi Selesai!"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:162
+msgid "Migrating Your Content"
+msgstr "Memigrasikan Data Anda"
+
+#: src/Pods/Admin/Config/Field.php:707
+msgid "Unique"
+msgstr "Unik"
+
+#: src/Pods/Admin/Config/Pod.php:369
+msgid "Not Found"
+msgstr "Tidak Ditemukan"
+
+#: src/Pods/Admin/Config/Pod.php:384
+msgid "Not Found in Trash"
+msgstr "Tidak Ditemukan di Tempat Sampah"
+
+#: src/Pods/Admin/Config/Pod.php:958 ui/admin/widgets/field.php:21
+#: ui/admin/widgets/form.php:21 ui/admin/widgets/list.php:23
+#: ui/admin/widgets/single.php:23 ui/admin/widgets/view.php:21
+msgid "Title"
+msgstr "Judul"
+
+#: src/Pods/Admin/Config/Pod.php:968
+msgid "Author"
+msgstr "Penulis"
+
+#: classes/PodsAPI.php:1089 classes/PodsInit.php:2041
+#: src/Pods/Admin/Config/Pod.php:427 src/Pods/Admin/Config/Pod.php:973
+msgid "Featured Image"
+msgstr "Pilihan Gambar"
+
+#: src/Pods/Admin/Config/Pod.php:979
+msgid "Excerpt"
+msgstr "Kutipan"
+
+#: src/Pods/Admin/Config/Pod.php:999
+msgid "Revisions"
+msgstr "Revisi"
+
+#: src/Pods/Admin/Config/Pod.php:1004
+msgid "Page Attributes"
+msgstr "Atribut Halaman"
+
+#: src/Pods/Integrations/Genesis.php:28
+msgid "Genesis: SEO"
+msgstr "Genesis: SEO"
+
+#: src/Pods/Integrations/Genesis.php:34
+msgid "Genesis: Layouts"
+msgstr "Genesis: Layouts"
+
+#: src/Pods/Integrations/Genesis.php:40
+msgid "Genesis: Simple Sidebars"
+msgstr "Genesis: Simple Sidebars"
+
+#: ui/admin/upgrade/backup.php:14
+msgid "Receive 25% off"
+msgstr "Terima diskon 25%"
+
+#: ui/admin/upgrade/backup.php:16
+msgid "Coupon Code"
+msgstr "Kode Kupon"
+
+#: ui/admin/upgrade/backup.php:27
+msgid "1 free month"
+msgstr "Gratis satu bulan"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:23 ui/admin/upgrade/upgrade_2_1_0.php:23
+msgid "Prepare"
+msgstr "Mempersiapkan"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:127
+#: ui/admin/upgrade/upgrade_2_0_0.php:235
+msgid "Helpers"
+msgstr "Penolong"
+
+#: src/Pods/Admin/Config/Field.php:154
+msgid "Field Type"
+msgstr "Jenis Bidang"
+
+#: src/Pods/Admin/Config/Field.php:598 src/Pods/Admin/Config/Field.php:599
+#: src/Pods/Admin/Config/Field.php:602
+msgid "Other"
+msgstr "Lainnya"
+
+#: src/Pods/Admin/Config/Field.php:559
+msgid "No Related Fields Found"
+msgstr "Tidak Ada Bidang Terkait Ditemukan"
+
+#: src/Pods/Admin/Config/Pod.php:954
+msgid "Supports"
+msgstr "Bantuan"
+
+#: src/Pods/Admin/Config/Pod.php:984
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: src/Pods/Integrations/YARPP.php:28
+msgid "YARPP Support"
+msgstr "Dukungan YARPP"
+
+#: src/Pods/Integrations/Jetpack.php:28
+msgid "Jetpack Publicize Support"
+msgstr "Dukungan Publicize Jetpack"
+
+#: src/Pods/Integrations/Jetpack.php:34
+msgid "Jetpack Markdown Support"
+msgstr "Dukungan Markdown Jetpack"
+
+#: src/Pods/Admin/Config/Pod.php:1017
+msgid "Advanced Supports"
+msgstr "Bantuan Lanjut"
+
+#: src/Pods/Admin/Config/Pod.php:1702
+msgid "Title Field"
+msgstr "Judul Bidang"
+
+#: ui/admin/shortcode.php:446 ui/admin/widgets/form.php:49
+msgid "ID or Slug"
+msgstr "ID atau Slug"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:109
+#: ui/admin/upgrade/upgrade_2_0_0.php:217
+msgid "Templates"
+msgstr "Template"
+
+#: ui/admin/shortcode.php:373
+msgid "Choose a Pod"
+msgstr "Pilih Pod"
+
+#: ui/admin/upgrade/backup.php:29
+msgid "Click to sign up"
+msgstr "Klik untuk daftar"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:91 ui/admin/upgrade/upgrade_2_0_0.php:199
+#: ui/admin/upgrade/upgrade_2_1_0.php:69 ui/admin/upgrade/upgrade_2_1_0.php:98
+msgid "Relationships"
+msgstr "Relasi"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:59
+msgid "Preparing Your Content for Migration"
+msgstr "Menyiapkan Konten Anda untuk Migrasi"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:100
+msgid "Item Indexes"
+msgstr "Indeks Item"
+
+#: ui/admin/setup-add.php:375 ui/admin/setup-add.php:545
+msgid "Table Based"
+msgstr "Berbasis Tabel"
+
+#: components/I18n/I18n.php:822 src/Pods/Admin/Config/Group.php:230
+#: ui/fields/color.php:20
+msgid "Default"
+msgstr "Standar"
+
+#: ui/admin/shortcode.php:528
+msgid "Insert"
+msgstr "Masukkan"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:118
+#: ui/admin/upgrade/upgrade_2_0_0.php:226
+msgid "Pod Pages"
+msgstr "Laman Pod"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:12 ui/admin/upgrade/upgrade_2_1_0.php:12
+msgid "Upgrade Pods"
+msgstr "Meningkatkan Pods"
+
+#: ui/admin/shortcode.php:433
+msgid "Pods Page"
+msgstr "Laman Pods"
+
+#: ui/admin/shortcode.php:358
+msgid "Display a field from this item"
+msgstr "Tampilkan sebuah bidang dari item ini"
+
+#: components/Migrate-Packages/ui/wizard.php:339
+#: components/Migrate-PHP/ui/wizard.php:188
+msgid "Continue"
+msgstr "Lanjut"
+
+#: components/Pages.php:688
+msgid "Enter URL here"
+msgstr "Masukkan URL di sini"
+
+#: components/Migrate-Packages/ui/wizard.php:339
+#: components/Migrate-PHP/ui/wizard.php:188
+msgid "Process Again"
+msgstr "Proses Kembali"
+
+#: components/Migrate-ACF/ui/wizard.php:87
+#: components/Migrate-ACF/ui/wizard.php:138
+#: components/Migrate-CPTUI/ui/wizard.php:86
+#: components/Migrate-CPTUI/ui/wizard.php:137
+#: components/Migrate-Packages/ui/wizard.php:183
+#: components/Migrate-Packages/ui/wizard.php:229
+#: components/Migrate-Packages/ui/wizard.php:275
+#: components/Migrate-PHP/ui/wizard.php:94
+#: components/Migrate-PHP/ui/wizard.php:142
+msgid "Toggle all on / off"
+msgstr "Atur semua hidup / mati"
+
+#: components/Pages.php:426
+msgid "Pod Association"
+msgstr "Asosiasi Pod"
+
+#: components/Roles/Roles.php:77 components/Roles/Roles.php:248
+msgid "View Users"
+msgstr "Lihat Pengguna"
+
+#: components/Roles/Roles.php:92
+msgid "Capabilities"
+msgstr "Kapabilitas"
+
+#: components/Roles/Roles.php:181 components/Roles/Roles.php:334
+msgid "Role not found, cannot edit it."
+msgstr "Peran tidak ditemukan, tidak bisa mengeditnya."
+
+#: components/Roles/Roles.php:204
+msgid "Role not found, it cannot be deleted."
+msgstr "Peran tidak ditemukan, tidak dapat dihapus."
+
+#: components/Roles/Roles.php:258
+msgid "role removed from site."
+msgstr "peran dihapus dari situs."
+
+#: components/Roles/Roles.php:299
+msgid "Role name is required"
+msgstr "Nama peran diperlukan"
+
+#: components/Roles/Roles.php:303
+msgid "Role label is required"
+msgstr "Label peran diperlukan"
+
+#: components/Roles/ui/edit.php:46 ui/forms/form.php:179
+msgid "Save"
+msgstr "Simpan"
+
+#: components/Templates/class-pods_templates.php:221
+msgid "Pod Reference"
+msgstr "Referensi Pod"
+
+#: components/Templates/includes/auto-template/Pods_Templates_Auto_Template_Settings.php:329
+msgid "After"
+msgstr "Setelah"
+
+#: components/Templates/includes/auto-template/Pods_Templates_Auto_Template_Settings.php:330
+msgid "Before"
+msgstr "Sebelum"
+
+#: components/Templates/includes/auto-template/Pods_Templates_Auto_Template_Settings.php:331
+msgid "Replace"
+msgstr "Ganti"
+
+#: includes/data.php:2084
+msgid "and"
+msgstr "dan"
+
+#: includes/general.php:327
+msgid "The following issue occurred:"
+msgstr "Masalah berikut terjadi:"
+
+#: includes/general.php:329
+msgid "The following issues occurred:"
+msgstr "Masalah berikut terjadi:"
+
+#: includes/general.php:334
+msgid "An unknown error has occurred"
+msgstr "Sebuah kesalahan yang tidak diketahui telah terjadi"
+
+#: components/Templates/Templates.php:430
+msgid "Enter template name here"
+msgstr "Masukkan nama template di sini"
+
+#: ui/admin/setup-add.php:417
+msgid "Taxonomies (Categories, Tags, etc..)"
+msgstr "Taksonomi (Kategori, Tag, dll..)"
+
+#: components/Roles/ui/add.php:72 components/Roles/ui/edit.php:82
+msgid "Toggle All Capabilities on / off"
+msgstr "Atur Semua Kapabilitas hidup / mati"
+
+#: ui/admin/view.php:51 ui/forms/type/post.php:80
+msgid "Created on"
+msgstr "Dibuat pada"
+
+#: ui/admin/view.php:114 ui/forms/type/post.php:220
+msgid "Navigate"
+msgstr "Arahkan"
+
+#: ui/admin/view.php:124 ui/forms/type/post.php:230
+msgid "Previous %s"
+msgstr "Sebelumnya %s"
+
+#: ui/admin/view.php:132 ui/forms/type/post.php:238
+msgid "Next %s"
+msgstr "Berikutnya %s"
+
+#: ui/forms/type/post.php:344
+msgid "Enter name here"
+msgstr "Masukkan nama di sini"
+
+#: classes/PodsAdmin.php:972 ui/admin/upgrade/upgrade_2_0_0.php:82
+#: ui/admin/upgrade/upgrade_2_0_0.php:190 ui/admin/view.php:191
+#: ui/forms/type/post.php:407
+msgid "Fields"
+msgstr "Bidang"
+
+#: ui/admin/settings-reset.php:175
+msgid "Delete Pods 1.x data"
+msgstr "Hapus Data Pods 1.x"
+
+#: classes/PodsAdmin.php:569 classes/PodsAdmin.php:590
+msgid "Pods Help"
+msgstr "Bantuan Pods"
+
+#: ui/admin/settings-reset.php:186
+msgid "Reset Pods 2.x"
+msgstr "Atur ulang Pods 2.x"
+
+#: ui/admin/settings-reset.php:181
+msgid "Delete Pods 1.x settings and data"
+msgstr "Hapus pengaturan dan data Pods 1.x"
+
+#: ui/admin/settings-reset.php:268
+msgid "Reset Weekend"
+msgstr "Atur ulang akhir pekan"
+
+#: ui/admin/settings-settings.php:118
+msgid "Clear Pods Cache"
+msgstr "Bersihkan Cache Pods"
+
+#: ui/admin/settings-reset.php:193
+msgid "Reset Pods 2.x settings and data"
+msgstr "Atur ulang pengaturan dan data Pods 2.x"
+
+#: ui/admin/settings-reset.php:198 ui/admin/settings-reset.php:205
+msgid "Deactivate and Delete Pods 2.x data"
+msgstr "Nonaktifkan dan Hapus Data Pods 2.x"
+
+#: ui/admin/settings-reset.php:232
+msgid "Reset Pods settings and data"
+msgstr "Atur ulang pengaturan dan data Pods"
+
+#: ui/admin/settings-reset.php:237 ui/admin/settings-reset.php:259
+msgid "Deactivate and Delete Pods data"
+msgstr "Nonaktifkan dan Hapus Data Pods"
+
+#: src/Pods/Admin/Config/Pod.php:272 ui/admin/setup-add.php:105
+msgid "Back to Manage"
+msgstr "Kembali ke Pengelola"
+
+#: classes/PodsAdmin.php:545 ui/admin/setup-add.php:100
+msgid "Add New Pod"
+msgstr "Tambah Pod Baru"
+
+#: ui/admin/settings-settings.php:101
+msgid "<strong>Error:</strong> %1$s %2$s successfully."
+msgstr "<strong>Eror:</strong> %s %s berhasil."
+
+#: ui/admin/components-admin.php:20
+msgid "Settings saved successfully."
+msgstr "Pengaturan berhasil disimpan."
+
+#: ui/admin/setup-add.php:193 ui/admin/setup-add.php:410
+msgid "Content Type"
+msgstr "Jenis Konten"
+
+#: components/Pages.php:274
+msgid "Page Template"
+msgstr "Template Halaman"
+
+#: components/Pages.php:413
+msgid "Page"
+msgstr "Halaman"
+
+#: components/Pages.php:287
+msgid "-- Select a Pod --"
+msgstr "-- Pilih Pod --"
+
+#: components/Roles/Roles.php:69 components/Roles/Roles.php:240
+msgid "%s User"
+msgid_plural "%s Users"
+msgstr[0] "%s Pengguna"
+msgstr[1] "%s Pengguna"
+
+#: includes/general.php:2635 includes/general.php:2654
+#: includes/general.php:2675
+msgid "NOTICE"
+msgstr "PEMBERITAHUAN"
+
+#: sql/upgrade/PodsUpgrade_2_0_0.php:193 sql/upgrade/PodsUpgrade_2_0_0.php:892
+msgid "Invalid Pod."
+msgstr "Pod Cacat."
+
+#: sql/upgrade/PodsUpgrade_2_0_0.php:215
+msgid "Pod not found, it cannot be migrated"
+msgstr "Pod tidak ditemukan, tidak dapat dimigrasikan"
+
+#: includes/general.php:1120
+msgid "Find out more"
+msgstr "Temukan lebih banyak"
+
+#: components/Roles/ui/add.php:65 components/Roles/ui/edit.php:73
+msgid "Assign the Capabilities for"
+msgstr "Berikan Kapabilitas untuk"
+
+#: sql/upgrade/PodsUpgrade_2_0_0.php:23 sql/upgrade/PodsUpgrade_2_0_0.php:47
+#: sql/upgrade/PodsUpgrade_2_0_0.php:71 sql/upgrade/PodsUpgrade_2_0_0.php:95
+#: sql/upgrade/PodsUpgrade_2_0_0.php:119 sql/upgrade/PodsUpgrade_2_0_0.php:143
+#: sql/upgrade/PodsUpgrade_2_0_0.php:167 sql/upgrade/PodsUpgrade_2_0_0.php:199
+msgid "Table not found, it cannot be migrated"
+msgstr "Tabel tidak ditemukan, tidak dapat dimigrasikan"
+
+#: ui/admin/view.php:60 ui/forms/type/post.php:89
+msgid "Last Modified"
+msgstr "Terakhir Dimodifikasi"
+
+#: ui/admin/settings.php:28
+msgid "Cleanup &amp; Reset"
+msgstr "Bersihkan &amp; Atur ulang"
+
+#: ui/admin/settings-reset.php:88
+msgid "Please Note:"
+msgstr "Tolong dicatat:"
+
+#: components/Roles/ui/add.php:11
+msgid "Roles &amp; Capabilities: Add New Role"
+msgstr "Peran &amp; Kapabilitas: Tambahkan Peran Baru"
+
+#: components/Roles/ui/add.php:35
+msgid "Name your new Role"
+msgstr "Nama baru Peran Anda"
+
+#: classes/fields/pick.php:3829
+msgid "Saint Helena"
+msgstr "Saint Helena"
+
+#: classes/fields/pick.php:3831
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+#: classes/fields/pick.php:3832
+msgid "Saint Martin"
+msgstr "Saint Martin"
+
+#: classes/fields/pick.php:3835
+msgid "Samoa"
+msgstr "Samoa"
+
+#: classes/fields/pick.php:3836
+msgid "San Marino"
+msgstr "San Marino"
+
+#: classes/fields/pick.php:3838
+msgid "Senegal"
+msgstr "Senegal"
+
+#: classes/fields/pick.php:3839
+msgid "Serbia"
+msgstr "Serbia"
+
+#: classes/fields/pick.php:3840
+msgid "Serbia and Montenegro"
+msgstr "Serbia dan Montenegro"
+
+#: classes/fields/pick.php:3843
+msgid "Singapore"
+msgstr "Singapura"
+
+#: classes/fields/pick.php:3844
+msgid "Slovakia"
+msgstr "Slovakia"
+
+#: classes/fields/pick.php:3842
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: classes/fields/pick.php:3841
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: classes/fields/pick.php:3845
+msgid "Slovenia"
+msgstr "Slovenia"
+
+#: classes/fields/pick.php:3846
+msgid "Solomon Islands"
+msgstr "Kepulauan Solomon"
+
+#: classes/fields/pick.php:3847
+msgid "Somalia"
+msgstr "Somalia"
+
+#: classes/fields/pick.php:3848
+msgid "South Africa"
+msgstr "Afrika Selatan"
+
+#: classes/fields/pick.php:3849
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Georgia Selatan dan Kepulauan Sandwich Selatan"
+
+#: classes/fields/pick.php:3850
+msgid "South Korea"
+msgstr "Korea Selatan"
+
+#: classes/fields/pick.php:3851
+msgid "Spain"
+msgstr "Spanyol"
+
+#: classes/fields/pick.php:3852
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: classes/fields/pick.php:3853
+msgid "Sudan"
+msgstr "Sudan"
+
+#: classes/fields/pick.php:3854
+msgid "Suriname"
+msgstr "Suriname"
+
+#: classes/fields/pick.php:3856
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: classes/fields/pick.php:3855
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard dan Jan Mayen"
+
+#: classes/fields/pick.php:3857
+msgid "Sweden"
+msgstr "Swedia"
+
+#: classes/fields/pick.php:3858
+msgid "Switzerland"
+msgstr "Swiss"
+
+#: classes/fields/pick.php:3859
+msgid "Syria"
+msgstr "Suriah"
+
+#: classes/fields/pick.php:3860
+msgid "São Tomé and Príncipe"
+msgstr "Sao Tome dan Principe"
+
+#: classes/fields/pick.php:3861
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: classes/fields/pick.php:3862
+msgid "Tajikistan"
+msgstr "Tajikistan"
+
+#: classes/fields/pick.php:3863
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: classes/fields/pick.php:3864
+msgid "Thailand"
+msgstr "Thailand"
+
+#: classes/fields/pick.php:3865
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+#: classes/fields/pick.php:3866
+msgid "Togo"
+msgstr "Togo"
+
+#: classes/fields/pick.php:3867
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: classes/fields/pick.php:3868
+msgid "Tonga"
+msgstr "Tonga"
+
+#: classes/fields/pick.php:3869
+msgid "Trinidad and Tobago"
+msgstr "Trinidad dan Tobago"
+
+#: classes/fields/pick.php:3870
+msgid "Tunisia"
+msgstr "Tunisia"
+
+#: classes/fields/pick.php:3871
+msgid "Turkey"
+msgstr "Turki"
+
+#: classes/fields/pick.php:3872
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: classes/fields/pick.php:3873
+msgid "Turks and Caicos Islands"
+msgstr "Kepulauan Turks dan Caicos"
+
+#: classes/fields/pick.php:3874
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: classes/fields/pick.php:3878
+msgid "Uganda"
+msgstr "Uganda"
+
+#: classes/fields/pick.php:3879
+msgid "Ukraine"
+msgstr "Ukraina"
+
+#: classes/fields/pick.php:3880
+msgid "Union of Soviet Socialist Republics"
+msgstr "Uni Republik Sosialis Soviet"
+
+#: classes/fields/pick.php:3881
+msgid "United Arab Emirates"
+msgstr "Uni Emirat Arab"
+
+#: classes/fields/pick.php:3882
+msgid "United Kingdom"
+msgstr "Inggris"
+
+#: classes/fields/pick.php:3883
+msgid "United States"
+msgstr "Amerika Serikat"
+
+#: classes/fields/pick.php:3885
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: classes/fields/pick.php:3886
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: classes/fields/pick.php:3887
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: classes/fields/pick.php:3888
+msgid "Vatican City"
+msgstr "Kota Vatikan"
+
+#: classes/fields/pick.php:3889
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: classes/fields/pick.php:3890
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: classes/fields/pick.php:3891
+msgid "Wake Island"
+msgstr "Pulau Wake"
+
+#: classes/fields/pick.php:3892
+msgid "Wallis and Futuna"
+msgstr "Wallis dan Futuna"
+
+#: classes/fields/pick.php:3893
+msgid "Western Sahara"
+msgstr "Sahara Barat"
+
+#: classes/fields/pick.php:3894
+msgid "Yemen"
+msgstr "Yaman"
+
+#: classes/fields/pick.php:3895
+msgid "Zambia"
+msgstr "Zambia"
+
+#: classes/fields/pick.php:3896
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: classes/fields/pick.php:3897
+msgid "Åland Islands"
+msgstr "Kepulauan Åland"
+
+#: classes/fields/pick.php:3920
+msgid "Alabama"
+msgstr "Alabama"
+
+#: classes/fields/pick.php:3921
+msgid "Alaska"
+msgstr "Alaska"
+
+#: classes/fields/pick.php:3922
+msgid "Arizona"
+msgstr "Arizona"
+
+#: classes/fields/pick.php:3923
+msgid "Arkansas"
+msgstr "Arkansas"
+
+#: classes/fields/pick.php:3924
+msgid "California"
+msgstr "California"
+
+#: classes/fields/pick.php:3925
+msgid "Colorado"
+msgstr "Colorado"
+
+#: classes/fields/pick.php:3926
+msgid "Connecticut"
+msgstr "Connecticut"
+
+#: classes/fields/pick.php:3927
+msgid "Delaware"
+msgstr "Delaware"
+
+#: classes/fields/pick.php:3928
+msgid "District Of Columbia"
+msgstr "Washington, D.C."
+
+#: classes/fields/pick.php:3929
+msgid "Florida"
+msgstr "Florida"
+
+#: classes/fields/pick.php:3931
+msgid "Hawaii"
+msgstr "Hawaii"
+
+#: classes/fields/pick.php:3932
+msgid "Idaho"
+msgstr "Idaho"
+
+#: classes/fields/pick.php:3933
+msgid "Illinois"
+msgstr "Illinois"
+
+#: classes/fields/pick.php:3934
+msgid "Indiana"
+msgstr "Indiana"
+
+#: classes/fields/pick.php:3935
+msgid "Iowa"
+msgstr "Iowa"
+
+#: classes/fields/pick.php:3936
+msgid "Kansas"
+msgstr "Kansas"
+
+#: classes/fields/pick.php:3937
+msgid "Kentucky"
+msgstr "Kentucky"
+
+#: classes/fields/pick.php:3938
+msgid "Louisiana"
+msgstr "Louisiana"
+
+#: classes/fields/pick.php:3939
+msgid "Maine"
+msgstr "Maine"
+
+#: classes/fields/pick.php:3940
+msgid "Maryland"
+msgstr "Maryland"
+
+#: classes/fields/pick.php:3941
+msgid "Massachusetts"
+msgstr "Massachusetts"
+
+#: classes/fields/pick.php:3942
+msgid "Michigan"
+msgstr "Michigan"
+
+#: classes/fields/pick.php:3943
+msgid "Minnesota"
+msgstr "Minnesota"
+
+#: classes/fields/pick.php:3944
+msgid "Mississippi"
+msgstr "Mississippi"
+
+#: classes/fields/pick.php:3945
+msgid "Missouri"
+msgstr "Missouri"
+
+#: classes/fields/pick.php:3946
+msgid "Montana"
+msgstr "Montana"
+
+#: classes/fields/pick.php:3947
+msgid "Nebraska"
+msgstr "Nebraska"
+
+#: classes/fields/pick.php:3948
+msgid "Nevada"
+msgstr "Nevada"
+
+#: classes/fields/pick.php:3949
+msgid "New Hampshire"
+msgstr "New Hampshire"
+
+#: classes/fields/pick.php:3950
+msgid "New Jersey"
+msgstr "New Jersey"
+
+#: classes/fields/pick.php:3951
+msgid "New Mexico"
+msgstr "New Mexico"
+
+#: classes/fields/pick.php:3952
+msgid "New York"
+msgstr "New York"
+
+#: classes/fields/pick.php:3962
+msgid "Tennessee"
+msgstr "Tennessee"
+
+#: classes/fields/pick.php:3963
+msgid "Texas"
+msgstr "Texas"
+
+#: classes/fields/pick.php:3964
+msgid "Utah"
+msgstr "Utah"
+
+#: classes/fields/pick.php:3965
+msgid "Vermont"
+msgstr "Vermont"
+
+#: classes/fields/pick.php:3966
+msgid "Virginia"
+msgstr "Virginia"
+
+#: classes/fields/pick.php:3967
+msgid "Washington"
+msgstr "Washington"
+
+#: classes/fields/pick.php:3969
+msgid "Wisconsin"
+msgstr "Wisconsin"
+
+#: classes/fields/pick.php:3970
+msgid "Wyoming"
+msgstr "Wyoming"
+
+#: classes/fields/link.php:51
+msgid "http://example.com/"
+msgstr "http://example.com/"
+
+#: classes/fields/link.php:52
+msgid "http://example.com/ (remove www)"
+msgstr "http://example.com/ (hapus www)"
+
+#: classes/fields/link.php:53
+msgid "http://www.example.com/ (force www if no sub-domain provided)"
+msgstr "http://www.example.com/ (paksa www jika tidak ada sub-domain diberikan)"
+
+#: classes/fields/link.php:54 classes/fields/website.php:50
+msgid "example.com"
+msgstr "example.com"
+
+#: classes/fields/link.php:55 classes/fields/website.php:51
+msgid "example.com (force removal of www)"
+msgstr "example.com (paksa hapus www)"
+
+#: classes/fields/link.php:56 classes/fields/website.php:52
+msgid "www.example.com (force www if no sub-domain provided)"
+msgstr "www.example.com (paksa www jika tidak ada sub-domain diberikan)"
+
+#: classes/fields/wysiwyg.php:43 src/Pods/Admin/Config/Pod.php:963
+msgid "Editor"
+msgstr "Editor"
+
+#: classes/widgets/PodsWidgetForm.php:38 classes/widgets/PodsWidgetForm.php:59
+#: classes/widgets/PodsWidgetForm.php:74
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:47
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:145
+msgid "Submit"
+msgstr "Kirim"
+
+#: components/Advanced-Relationships.php:46
+msgid "Database Tables"
+msgstr "Tabel Basis Data"
+
+#: components/Builder/modules/field/PodsBuilderModuleField.php:99
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:101
+#: components/Builder/modules/single/PodsBuilderModuleSingle.php:100
+#: src/Pods/Blocks/Types/Field.php:122 src/Pods/Blocks/Types/Form.php:182
+#: src/Pods/Blocks/Types/Item_Single.php:186
+#: src/Pods/Blocks/Types/Item_Single_List_Fields.php:86
+#: src/Pods/Blocks/Types/Related_Item_List.php:113
+#: ui/admin/widgets/field.php:50 ui/admin/widgets/single.php:52
+msgid "Slug or ID"
+msgstr "Slug atau ID"
+
+#: classes/widgets/PodsWidgetForm.php:13
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:27
+msgid "Pods - Form"
+msgstr "Pods - Formulir"
+
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:117
+#: ui/admin/shortcode.php:482 ui/admin/widgets/form.php:61
+msgid "Submit Label"
+msgstr "Label Kirim"
+
+#: components/Builder/modules/list/PodsBuilderModuleList.php:161
+#: src/Pods/Blocks/Types/Item_List.php:263
+#: src/Pods/Blocks/Types/Related_Item_List.php:158 ui/admin/shortcode.php:452
+#: ui/admin/widgets/list.php:100
+msgid "Limit"
+msgstr "Batas"
+
+#: components/Builder/modules/list/PodsBuilderModuleList.php:169
+#: src/Pods/Blocks/Types/Item_List.php:270
+#: src/Pods/Blocks/Types/Related_Item_List.php:165 ui/admin/shortcode.php:458
+#: ui/admin/widgets/list.php:106
+msgid "Order By"
+msgstr "Urutkan Berdasar"
+
+#: components/Builder/modules/list/PodsBuilderModuleList.php:185
+#: components/Builder/modules/view/PodsBuilderModuleView.php:84
+#: ui/admin/shortcode.php:500 ui/admin/widgets/list.php:118
+#: ui/admin/widgets/view.php:33
+msgid "Cache Type"
+msgstr "Jenis Cache"
+
+#: classes/fields/pick.php:3954
+msgid "North Dakota"
+msgstr "Dakota Utara"
+
+#: classes/fields/pick.php:3955
+msgid "Ohio"
+msgstr "Ohio"
+
+#: classes/fields/pick.php:3956
+msgid "Oklahoma"
+msgstr "Oklahoma"
+
+#: classes/fields/pick.php:3957
+msgid "Oregon"
+msgstr "Oregon"
+
+#: classes/fields/pick.php:3958
+msgid "Pennsylvania"
+msgstr "Pennsylvania"
+
+#: classes/fields/pick.php:3959
+msgid "Rhode Island"
+msgstr "Pulau Rhode"
+
+#: classes/fields/pick.php:3960
+msgid "South Carolina"
+msgstr "Carolina Selatan"
+
+#: classes/fields/pick.php:3961
+msgid "South Dakota"
+msgstr "Dakota Selatan"
+
+#: classes/fields/pick.php:3953
+msgid "North Carolina"
+msgstr "Carolina Utara"
+
+#: classes/fields/pick.php:3884
+msgid "Unknown or Invalid Region"
+msgstr "Tidak diketahui atau Wilayah tidak valid"
+
+#: src/Pods/Whatsit/Storage/Collection.php:39
+msgid "Code"
+msgstr "Kode"
+
+#: ui/admin/upgrade/upgrade_2_0_0.php:26
+msgid "Migrate"
+msgstr "Migrasi"
+
+#: components/Migrate-ACF/ui/wizard.php:40
+#: components/Migrate-CPTUI/ui/wizard.php:40
+msgid "Import Only"
+msgstr "Hanya Impor"
+
+#: components/Migrate-ACF/ui/wizard.php:174
+#: components/Migrate-CPTUI/ui/wizard.php:173
+#: components/Migrate-Packages/ui/wizard.php:338
+#: components/Migrate-PHP/ui/wizard.php:187 components/Roles/ui/add.php:139
+#: ui/admin/setup-add.php:582 ui/admin/upgrade/upgrade_2_0_0.php:271
+#: ui/admin/upgrade/upgrade_2_1_0.php:118
+msgid "Start Over"
+msgstr "Mulai dari Awal"
+
+#: components/Migrate-ACF/ui/wizard.php:175
+#: components/Migrate-CPTUI/ui/wizard.php:174 components/Roles/ui/add.php:140
+#: ui/admin/setup-add.php:583 ui/admin/upgrade/upgrade_2_0_0.php:272
+#: ui/admin/upgrade/upgrade_2_1_0.php:119
+msgid "Next Step"
+msgstr "Langkah Berikutnya"
+
+#: components/Migrate-ACF/ui/wizard.php:175
+#: components/Migrate-CPTUI/ui/wizard.php:174
+#: components/Migrate-Packages/ui/wizard.php:339
+#: components/Migrate-PHP/ui/wizard.php:188 components/Roles/ui/add.php:140
+#: ui/admin/setup-add.php:583
+msgid "Finished"
+msgstr "Selesai"
+
+#: components/Migrate-ACF/ui/wizard.php:175
+#: components/Migrate-CPTUI/ui/wizard.php:174
+#: components/Migrate-Packages/ui/wizard.php:339
+#: components/Migrate-PHP/ui/wizard.php:188 components/Roles/ui/add.php:140
+#: ui/admin/setup-add.php:583
+msgid "Processing"
+msgstr "Proses"
+
+#: components/Migrate-Packages/ui/wizard.php:12
+msgid "Migrate: Packages"
+msgstr "Migrasi: Paket"
+
+#: components/Migrate-ACF/ui/wizard.php:132
+#: components/Migrate-CPTUI/ui/wizard.php:131
+msgid "Available Taxonomies"
+msgstr "Taksonomi Tersedia"
+
+#: components/Migrate-ACF/ui/wizard.php:51
+#: components/Migrate-CPTUI/ui/wizard.php:50
+msgid "Import and Clean Up"
+msgstr "Impor dan Bersihkan"
+
+#: classes/widgets/PodsWidgetView.php:13
+#: components/Builder/modules/view/PodsBuilderModuleView.php:27
+msgid "Pods - View"
+msgstr "Pods - Lihat"
+
+#: classes/widgets/PodsWidgetSingle.php:13
+#: components/Builder/modules/single/PodsBuilderModuleSingle.php:27
+msgid "Pods - Single Item"
+msgstr "Pods - Item Tunggal"
+
+#: components/Builder/modules/list/PodsBuilderModuleList.php:192
+#: components/Builder/modules/view/PodsBuilderModuleView.php:91
+#: ui/admin/shortcode.php:506 ui/admin/widgets/list.php:124
+#: ui/admin/widgets/view.php:39
+msgid "Transient"
+msgstr "Sementara"
+
+#: components/Builder/modules/list/PodsBuilderModuleList.php:117
+#: components/Builder/modules/list/PodsBuilderModuleList.php:134
+#: components/Builder/modules/single/PodsBuilderModuleSingle.php:121
+#: components/Builder/modules/single/PodsBuilderModuleSingle.php:138
+#: components/Templates/class-pods_templates.php:211
+#: src/Pods/Blocks/Types/Item_List.php:230
+#: src/Pods/Blocks/Types/Item_Single.php:192
+#: src/Pods/Blocks/Types/Related_Item_List.php:125 ui/admin/shortcode.php:397
+#: ui/admin/shortcode.php:413 ui/admin/widgets/list.php:57
+#: ui/admin/widgets/list.php:73 ui/admin/widgets/single.php:73
+#: ui/admin/widgets/single.php:89
+msgid "Template"
+msgstr "Template"
+
+#: components/Builder/modules/field/PodsBuilderModuleField.php:92
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:94
+#: components/Builder/modules/list/PodsBuilderModuleList.php:97
+#: components/Builder/modules/list/PodsBuilderModuleList.php:124
+#: components/Builder/modules/single/PodsBuilderModuleSingle.php:93
+#: components/Builder/modules/single/PodsBuilderModuleSingle.php:128
+#: components/Pages.php:297 ui/admin/shortcode.php:388
+#: ui/admin/widgets/field.php:44 ui/admin/widgets/form.php:44
+#: ui/admin/widgets/list.php:46 ui/admin/widgets/single.php:46
+msgid "None Found"
+msgstr "Tidak yang Ditemukan"
+
+#: components/Advanced-Relationships.php:77
+msgid "Sidebars"
+msgstr "Sidebar"
+
+#: classes/fields/pick.php:801
+msgid "Taxonomy Objects"
+msgstr "Objek Taksonomi"
+
+#: components/Migrate-ACF/ui/wizard.php:81
+#: components/Migrate-CPTUI/ui/wizard.php:80
+msgid "Available Post Types"
+msgstr "Jenis Post Yang Tersedia"
+
+#: components/Migrate-ACF/ui/wizard.php:72
+#: components/Migrate-CPTUI/ui/wizard.php:71
+msgid "Choose Post Types to Import"
+msgstr "Pilih Jenis Pos untuk Diimpor"
+
+#: components/Migrate-ACF/ui/wizard.php:123
+#: components/Migrate-CPTUI/ui/wizard.php:122
+msgid "Choose Taxonomies to Import"
+msgstr "Pilih Taksonomi untuk Diimpor"
+
+#: components/Migrate-ACF/ui/wizard.php:164
+#: components/Migrate-CPTUI/ui/wizard.php:163
+msgid "No Taxonomies were found."
+msgstr "Tidak ada Taksonomi ditemukan."
+
+#: components/Builder/modules/list/PodsBuilderModuleList.php:193
+#: components/Builder/modules/view/PodsBuilderModuleView.php:92
+#: ui/admin/shortcode.php:507 ui/admin/widgets/list.php:125
+#: ui/admin/widgets/view.php:40
+msgid "Site Transient"
+msgstr "Peralihan Situs"
+
+#: components/Builder/modules/list/PodsBuilderModuleList.php:202
+#: components/Builder/modules/view/PodsBuilderModuleView.php:101
+#: ui/admin/shortcode.php:522 ui/admin/widgets/list.php:138
+#: ui/admin/widgets/view.php:54
+msgid "Cache Expiration (in seconds)"
+msgstr "Waktu Kedaluwarsa Cache (dalam detik)"
+
+#: components/Builder/modules/view/PodsBuilderModuleView.php:76
+#: ui/admin/shortcode.php:494 ui/admin/widgets/view.php:27
+msgid "File to include"
+msgstr "Berkas untuk disertakan"
+
+#: components/Migrate-ACF/Migrate-ACF.php:333
+#: components/Migrate-ACF/Migrate-ACF.php:456
+#: components/Migrate-CPTUI/Migrate-CPTUI.php:326
+#: components/Migrate-CPTUI/Migrate-CPTUI.php:454
+msgid "Pod with the name %s already exists"
+msgstr "Pod dengan nama %s sudah ada"
+
+#: components/Migrate-CPTUI/ui/wizard.php:12
+msgid "Migrate: Import from Custom Post Type UI"
+msgstr "Migrasi: Impor dari Custom Post Type UI"
+
+#: components/Advanced-Relationships.php:63
+msgid "Themes"
+msgstr "Tema"
+
+#: components/Advanced-Relationships.php:70
+msgid "Page Templates"
+msgstr "Template Laman"
+
+#: components/Builder/modules/field/PodsBuilderModuleField.php:107
+#: components/Templates/includes/element-pod_reference-content.php:19
+#: components/Templates/includes/element-pod_reference.php:30
+#: ui/admin/shortcode.php:470 ui/admin/widgets/field.php:65
+msgid "Field"
+msgstr "Bidang"
+
+#: classes/fields/pick.php:3877
+msgid "U.S. Virgin Islands"
+msgstr "Kepulauan Virgin Amerika Serikat"
+
+#: components/Advanced-Relationships.php:47
+#: components/Advanced-Relationships.php:53
+#: components/Advanced-Relationships.php:58
+#: components/Advanced-Relationships.php:64
+#: components/Advanced-Relationships.php:71
+#: components/Advanced-Relationships.php:78
+msgid "Advanced Objects"
+msgstr "Objek Lanjut"
+
+#: components/Advanced-Relationships.php:57
+msgid "Multisite Networks"
+msgstr "Jaringan Multisite"
+
+#: components/Advanced-Relationships.php:52
+msgid "Multisite Sites"
+msgstr "Situs Multisite"
+
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:125
+#: ui/admin/shortcode.php:488 ui/admin/widgets/form.php:67
+msgid "Thank You URL upon submission"
+msgstr "Terima Kasih atas Pengajuan URL Anda"
+
+#: classes/widgets/PodsWidgetList.php:13
+#: components/Builder/modules/list/PodsBuilderModuleList.php:27
+msgid "Pods - List Items"
+msgstr "Pods - Daftar Item"
+
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:109
+#: ui/admin/shortcode.php:476 ui/admin/widgets/form.php:55
+msgid "Fields (comma-separated)"
+msgstr "Bidang (dipisahkan dengan koma)"
+
+#: classes/fields/pick.php:3833
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre dan Miquelon"
+
+#: classes/fields/pick.php:3830
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts dan Nevis"
+
+#: classes/fields/pick.php:3837
+msgid "Saudi Arabia"
+msgstr "Arab Saudi"
+
+#: components/Builder/modules/list/PodsBuilderModuleList.php:177
+#: src/Pods/Blocks/Types/Item_List.php:276
+#: src/Pods/Blocks/Types/Related_Item_List.php:171 ui/admin/shortcode.php:464
+#: ui/admin/widgets/list.php:112
+msgid "Where"
+msgstr "Di mana"
+
+#: components/Builder/modules/list/PodsBuilderModuleList.php:191
+#: components/Builder/modules/view/PodsBuilderModuleView.php:90
+#: ui/admin/shortcode.php:505 ui/admin/widgets/list.php:123
+#: ui/admin/widgets/view.php:38
+msgid "Object Cache"
+msgstr "Cache Objek"
+
+#: classes/fields/pick.php:3968
+msgid "West Virginia"
+msgstr "Virginia Barat"
+
+#: classes/fields/pick.php:3834
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint Vincent dan Grenadine"
+
+#: classes/fields/datetime.php:129 classes/fields/pick.php:590
+msgid "Custom"
+msgstr "Kustom"
+
+#: classes/fields/pick.php:663 src/Pods/Admin/Config/Pod.php:1423
+#: src/Pods/Admin/Config/Pod.php:1424
+msgid "Post Types"
+msgstr "Jenis Post"
+
+#: classes/fields/pick.php:724 src/Pods/Admin/Config/Pod.php:1074
+#: src/Pods/Admin/Config/Pod.php:1075
+msgid "Taxonomies"
+msgstr "Taksonomi"
+
+#: classes/fields/pick.php:731 components/Roles/Roles.php:94
+#: ui/admin/setup-add.php:419
+msgid "Users"
+msgstr "Pengguna"
+
+#: classes/fields/pick.php:737
+msgid "User Roles"
+msgstr "Peran Pengguna"
+
+#: classes/fields/pick.php:744
+msgid "User Capabilities"
+msgstr "Kapabilitas Pengguna"
+
+#: classes/fields/pick.php:751 classes/PodsAPI.php:11954
+#: src/Pods/Admin/Config/Pod.php:1441 ui/admin/setup-add.php:418
+msgid "Media"
+msgstr "Media"
+
+#: classes/fields/pick.php:757 src/Pods/Admin/Config/Pod.php:994
+#: ui/admin/setup-add.php:420
+msgid "Comments"
+msgstr "Komentar"
+
+#: classes/fields/pick.php:763
+msgid "Image Sizes"
+msgstr "Ukuran Gambar"
+
+#: classes/fields/pick.php:770
+msgid "Navigation Menus"
+msgstr "Menu Navigasi"
+
+#: classes/fields/pick.php:810
+msgid "Countries"
+msgstr "Negara"
+
+#: classes/fields/heading.php:65 classes/fields/link.php:84
+#: classes/fields/paragraph.php:71 classes/fields/text.php:67
+msgid "Allow HTML"
+msgstr "Perbolehkan HTML"
+
+#: classes/fields/pick.php:3634
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: classes/fields/pick.php:3635
+msgid "Albania"
+msgstr "Albania"
+
+#: classes/fields/pick.php:3636
+msgid "Algeria"
+msgstr "Aljazair"
+
+#: classes/fields/pick.php:3637
+msgid "American Samoa"
+msgstr "Samoa Amerika"
+
+#: classes/fields/pick.php:3638
+msgid "Andorra"
+msgstr "Andorra"
+
+#: classes/fields/pick.php:3639
+msgid "Angola"
+msgstr "Angola"
+
+#: classes/fields/pick.php:3640
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: classes/fields/pick.php:3641
+msgid "Antarctica"
+msgstr "Antartika"
+
+#: classes/fields/pick.php:3642
+msgid "Antigua and Barbuda"
+msgstr "Antigua dan Barbuda"
+
+#: classes/fields/pick.php:364 classes/fields/pick.php:2247
+#: components/Templates/includes/auto-template/Pods_Templates_Auto_Template_Settings.php:316
+#: src/Pods/Whatsit/Field.php:109
+msgid "-- Select One --"
+msgstr "-- Pilih Satu --"
+
+#: classes/fields/pick.php:817
+msgid "US States"
+msgstr "Negara Bagian AS"
+
+#: classes/fields/pick.php:831
+msgid "Calendar - Days of Week"
+msgstr "Kalender - Hari dalam Seminggu"
+
+#: classes/fields/pick.php:838
+msgid "Calendar - Months of Year"
+msgstr "Kalender - Bulan dalam Setahun"
+
+#: classes/fields/pick.php:3643
+msgid "Argentina"
+msgstr "Argentina"
+
+#: classes/fields/pick.php:3644
+msgid "Armenia"
+msgstr "Armenia"
+
+#: classes/fields/pick.php:3645
+msgid "Aruba"
+msgstr "Aruba"
+
+#: classes/fields/pick.php:3646
+msgid "Australia"
+msgstr "Australia"
+
+#: classes/fields/pick.php:3647
+msgid "Austria"
+msgstr "Austria"
+
+#: classes/fields/pick.php:3648
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+#: classes/fields/pick.php:3649
+msgid "Bahamas"
+msgstr "Bahama"
+
+#: classes/fields/pick.php:3650
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: classes/fields/pick.php:3651
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: classes/fields/pick.php:3652
+msgid "Barbados"
+msgstr "Barbados"
+
+#: classes/fields/pick.php:3653
+msgid "Belarus"
+msgstr "Belarus"
+
+#: classes/fields/pick.php:3654
+msgid "Belgium"
+msgstr "Belgia"
+
+#: classes/fields/pick.php:3655
+msgid "Belize"
+msgstr "Belize"
+
+#: classes/fields/pick.php:3656
+msgid "Benin"
+msgstr "Benin"
+
+#: classes/fields/pick.php:3657
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: classes/fields/pick.php:3658
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: classes/fields/pick.php:3659
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: classes/fields/pick.php:3660
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia dan Herzegovina"
+
+#: classes/fields/pick.php:3661
+msgid "Botswana"
+msgstr "Botswana"
+
+#: classes/fields/pick.php:3662
+msgid "Bouvet Island"
+msgstr "Pulau Bouvet"
+
+#: classes/fields/pick.php:3663
+msgid "Brazil"
+msgstr "Brazil"
+
+#: classes/fields/pick.php:3667
+msgid "Brunei"
+msgstr "Brunei"
+
+#: classes/fields/pick.php:3668
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+#: classes/fields/pick.php:3673
+msgid "Canada"
+msgstr "Canada"
+
+#: classes/fields/pick.php:3672
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: classes/fields/pick.php:3671
+msgid "Cambodia"
+msgstr "Kamboja"
+
+#: classes/fields/pick.php:3670
+msgid "Burundi"
+msgstr "Burundi"
+
+#: classes/fields/pick.php:3669
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: classes/fields/pick.php:3666
+msgid "British Virgin Islands"
+msgstr "Kepulauan Virgin Inggris"
+
+#: classes/fields/pick.php:3676
+msgid "Cayman Islands"
+msgstr "Kepulauan Cayman"
+
+#: classes/fields/pick.php:3677
+msgid "Central African Republic"
+msgstr "Afrika Tengah"
+
+#: classes/fields/pick.php:3678
+msgid "Chad"
+msgstr "Chad"
+
+#: classes/fields/pick.php:3675
+msgid "Cape Verde"
+msgstr "Cape Verde"
+
+#: classes/fields/pick.php:3679
+msgid "Chile"
+msgstr "Chili"
+
+#: classes/fields/pick.php:3680
+msgid "China"
+msgstr "China"
+
+#: classes/fields/pick.php:3683
+msgid "Colombia"
+msgstr "Kolombia"
+
+#: classes/fields/pick.php:3739
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: classes/fields/pick.php:3740
+msgid "Iran"
+msgstr "Iran"
+
+#: classes/fields/pick.php:3738
+msgid "India"
+msgstr "India"
+
+#: classes/fields/pick.php:3732
+msgid "Haiti"
+msgstr "Haiti"
+
+#: classes/fields/pick.php:3741
+msgid "Iraq"
+msgstr "Irak"
+
+#: classes/fields/pick.php:3734
+msgid "Honduras"
+msgstr "Honduras"
+
+#: classes/fields/pick.php:3737
+msgid "Iceland"
+msgstr "Islandia"
+
+#: classes/fields/pick.php:3736
+msgid "Hungary"
+msgstr "Hongaria"
+
+#: classes/fields/pick.php:3719
+msgid "Germany"
+msgstr "Jerman"
+
+#: classes/fields/pick.php:3710
+msgid "Finland"
+msgstr "Finlandia"
+
+#: classes/fields/pick.php:3711
+msgid "France"
+msgstr "Perancis"
+
+#: classes/fields/pick.php:3712
+msgid "French Guiana"
+msgstr "Guyana Perancis"
+
+#: classes/fields/pick.php:3722
+msgid "Greece"
+msgstr "Yunani"
+
+#: classes/fields/pick.php:3721
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: classes/fields/pick.php:3720
+msgid "Ghana"
+msgstr "Ghana"
+
+#: classes/fields/pick.php:3731
+msgid "Guyana"
+msgstr "Guyana"
+
+#: classes/fields/pick.php:3709
+msgid "Fiji"
+msgstr "Fiji"
+
+#: classes/fields/pick.php:3705
+msgid "Estonia"
+msgstr "Estonia"
+
+#: classes/fields/pick.php:3706
+msgid "Ethiopia"
+msgstr "Etiopia"
+
+#: classes/fields/pick.php:3700
+msgid "Ecuador"
+msgstr "Ekuador"
+
+#: classes/fields/pick.php:3701
+msgid "Egypt"
+msgstr "Mesir"
+
+#: classes/fields/pick.php:3694
+msgid "Denmark"
+msgstr "Denmark"
+
+#: classes/fields/pick.php:3699
+msgid "East Germany"
+msgstr "Jerman Timur"
+
+#: classes/fields/pick.php:3693
+msgid "Côte d’Ivoire"
+msgstr "Pantai Gading"
+
+#: classes/fields/pick.php:3692
+msgid "Czech Republic"
+msgstr "Republik Ceko"
+
+#: classes/fields/pick.php:3747
+msgid "Japan"
+msgstr "Jepang"
+
+#: classes/fields/pick.php:3744
+msgid "Israel"
+msgstr "Israel"
+
+#: classes/fields/pick.php:3745
+msgid "Italy"
+msgstr "Italia"
+
+#: classes/fields/pick.php:3756
+msgid "Laos"
+msgstr "Laos"
+
+#: classes/fields/pick.php:3761
+msgid "Libya"
+msgstr "Libya"
+
+#: classes/fields/pick.php:3764
+msgid "Luxembourg"
+msgstr "Luksemburg"
+
+#: classes/fields/pick.php:3754
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: classes/fields/pick.php:3755
+msgid "Kyrgyzstan"
+msgstr "Kyrgyzstan"
+
+#: classes/fields/pick.php:3769
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: classes/fields/pick.php:3812
+msgid "Panama"
+msgstr "Panama"
+
+#: classes/fields/pick.php:3817
+msgid "Peru"
+msgstr "Peru"
+
+#: classes/fields/pick.php:3818
+msgid "Philippines"
+msgstr "Filipina"
+
+#: classes/fields/pick.php:3823
+msgid "Qatar"
+msgstr "Qatar"
+
+#: classes/fields/pick.php:3824
+msgid "Romania"
+msgstr "Romania"
+
+#: classes/fields/pick.php:3825
+msgid "Russia"
+msgstr "Rusia"
+
+#: classes/fields/pick.php:3821
+msgid "Portugal"
+msgstr "Portugal"
+
+#: classes/fields/pick.php:3809
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: classes/fields/pick.php:3803
+msgid "North Korea"
+msgstr "Korea Utara"
+
+#: classes/fields/pick.php:3804
+msgid "North Vietnam"
+msgstr "Vietnam Utara"
+
+#: classes/fields/pick.php:3800
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: classes/fields/pick.php:3792
+msgid "Nepal"
+msgstr "Nepal"
+
+#: classes/fields/pick.php:3797
+msgid "New Zealand"
+msgstr "Selandia Baru"
+
+#: classes/fields/pick.php:3814
+msgid "Papua New Guinea"
+msgstr "Papua Nugini"
+
+#: classes/fields/pick.php:3822
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: classes/fields/pick.php:3789
+msgid "Myanmar [Burma]"
+msgstr "Myanmar"
+
+#: classes/fields/pick.php:3770
+msgid "Maldives"
+msgstr "Maladewa"
+
+#: classes/fields/pick.php:3768
+msgid "Malawi"
+msgstr "Malawi"
+
+#: classes/fields/pick.php:3767
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: classes/fields/pick.php:3766
+msgid "Macedonia"
+msgstr "Makedonia"
+
+#: classes/fields/pick.php:3763
+msgid "Lithuania"
+msgstr "Lithuania"
+
+#: classes/fields/pick.php:3762
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: classes/fields/pick.php:3760
+msgid "Liberia"
+msgstr "Liberia"
+
+#: classes/fields/pick.php:3759
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: classes/fields/pick.php:3758
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: classes/fields/pick.php:3757
+msgid "Latvia"
+msgstr "Latvia"
+
+#: classes/fields/pick.php:3753
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: classes/fields/pick.php:3752
+msgid "Kenya"
+msgstr "Kenya"
+
+#: classes/fields/pick.php:3751
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+#: classes/fields/pick.php:3750
+msgid "Jordan"
+msgstr "Jordan"
+
+#: classes/fields/pick.php:3749
+msgid "Johnston Island"
+msgstr "Atol Johnston"
+
+#: classes/fields/pick.php:3748
+msgid "Jersey"
+msgstr "Jersey"
+
+#: classes/fields/pick.php:3746
+msgid "Jamaica"
+msgstr "Jamaika"
+
+#: classes/fields/pick.php:3742
+msgid "Ireland"
+msgstr "Irlandia"
+
+#: classes/fields/pick.php:3743
+msgid "Isle of Man"
+msgstr "Pulau Man"
+
+#: classes/fields/pick.php:3730
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: classes/fields/pick.php:3729
+msgid "Guinea"
+msgstr "Guinea"
+
+#: classes/fields/pick.php:3727
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: classes/fields/pick.php:3724
+msgid "Grenada"
+msgstr "Grenada"
+
+#: classes/fields/pick.php:3723
+msgid "Greenland"
+msgstr "Greenland"
+
+#: classes/fields/pick.php:3716
+msgid "Gabon"
+msgstr "Gabon"
+
+#: classes/fields/pick.php:3717
+msgid "Gambia"
+msgstr "Gambia"
+
+#: classes/fields/pick.php:3718 classes/fields/pick.php:3930
+msgid "Georgia"
+msgstr "Georgia"
+
+#: classes/fields/pick.php:3704
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: classes/fields/pick.php:3707
+msgid "Falkland Islands"
+msgstr "Kepulauan Falkland"
+
+#: classes/fields/pick.php:3708
+msgid "Faroe Islands"
+msgstr "Kepulauan Faroe"
+
+#: classes/fields/pick.php:3713
+msgid "French Polynesia"
+msgstr "Polinesia Perancis"
+
+#: classes/fields/pick.php:3714
+msgid "French Southern Territories"
+msgstr "Daratan Selatan Perancis"
+
+#: classes/fields/pick.php:3715
+msgid "French Southern and Antarctic Territories"
+msgstr "Daratan Selatan dan Antarktika Perancis"
+
+#: classes/fields/pick.php:3725
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: classes/fields/pick.php:3726
+msgid "Guam"
+msgstr "Guam"
+
+#: classes/fields/pick.php:3728
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: classes/fields/pick.php:3733
+msgid "Heard Island and McDonald Islands"
+msgstr "Pulau Heard dan Kepulauan McDonald"
+
+#: classes/fields/pick.php:3735
+msgid "Hong Kong SAR China"
+msgstr "Hong Kong"
+
+#: classes/fields/pick.php:3765
+msgid "Macau SAR China"
+msgstr "Macau"
+
+#: classes/fields/pick.php:3771
+msgid "Mali"
+msgstr "Mali"
+
+#: classes/fields/pick.php:3772
+msgid "Malta"
+msgstr "Malta"
+
+#: classes/fields/pick.php:3773
+msgid "Marshall Islands"
+msgstr "Kepulauan Marshall"
+
+#: classes/fields/pick.php:3774
+msgid "Martinique"
+msgstr "Martinik"
+
+#: classes/fields/pick.php:3775
+msgid "Mauritania"
+msgstr "Mauritania"
+
+#: classes/fields/pick.php:3776
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: classes/fields/pick.php:3777
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: classes/fields/pick.php:3778
+msgid "Metropolitan France"
+msgstr "Perancis"
+
+#: classes/fields/pick.php:3780
+msgid "Micronesia"
+msgstr "Federasi Mikronesia"
+
+#: classes/fields/pick.php:3781
+msgid "Midway Islands"
+msgstr "Atol Midway"
+
+#: classes/fields/pick.php:3782
+msgid "Moldova"
+msgstr "Moldova"
+
+#: classes/fields/pick.php:3783
+msgid "Monaco"
+msgstr "Monako"
+
+#: classes/fields/pick.php:3784
+msgid "Mongolia"
+msgstr "Mongolia"
+
+#: classes/fields/pick.php:3785
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: classes/fields/pick.php:3786
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: classes/fields/pick.php:3787
+msgid "Morocco"
+msgstr "Maroko"
+
+#: classes/fields/pick.php:3788
+msgid "Mozambique"
+msgstr "Mozambik"
+
+#: classes/fields/pick.php:3790
+msgid "Namibia"
+msgstr "Namibia"
+
+#: classes/fields/pick.php:3791
+msgid "Nauru"
+msgstr "Nauru"
+
+#: classes/fields/pick.php:3793
+msgid "Netherlands"
+msgstr "Belanda"
+
+#: classes/fields/pick.php:3794
+msgid "Netherlands Antilles"
+msgstr "Antillen Belanda"
+
+#: classes/fields/pick.php:3795
+msgid "Neutral Zone"
+msgstr "Zona Netral"
+
+#: classes/fields/pick.php:3796
+msgid "New Caledonia"
+msgstr "Kaledonia Baru"
+
+#: classes/fields/pick.php:3798
+msgid "Nicaragua"
+msgstr "Nikaragua"
+
+#: classes/fields/pick.php:3799
+msgid "Niger"
+msgstr "Niger"
+
+#: classes/fields/pick.php:3801
+msgid "Niue"
+msgstr "Niue"
+
+#: classes/fields/pick.php:3802
+msgid "Norfolk Island"
+msgstr "Pulau Norfolk"
+
+#: classes/fields/pick.php:3805
+msgid "Northern Mariana Islands"
+msgstr "Kepulauan Mariana Utara"
+
+#: classes/fields/pick.php:3806
+msgid "Norway"
+msgstr "Norway"
+
+#: classes/fields/pick.php:3807
+msgid "Oman"
+msgstr "Oman"
+
+#: classes/fields/pick.php:3808
+msgid "Pacific Islands Trust Territory"
+msgstr "Wilayah Perwalian Kepulauan Pasifik"
+
+#: classes/fields/pick.php:3810
+msgid "Palau"
+msgstr "Palau"
+
+#: classes/fields/pick.php:3813
+msgid "Panama Canal Zone"
+msgstr "Terusan Panama"
+
+#: classes/fields/pick.php:3815
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: classes/fields/pick.php:3816
+msgid "People's Democratic Republic of Yemen"
+msgstr "Republik Demokrasi Rakyat Yaman"
+
+#: classes/fields/pick.php:3819
+msgid "Pitcairn Islands"
+msgstr "Kepulauan Pitcairn"
+
+#: classes/fields/pick.php:3820
+msgid "Poland"
+msgstr "Polandia"
+
+#: classes/fields/pick.php:3826
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: classes/fields/pick.php:3827
+msgid "Réunion"
+msgstr "Réunion"
+
+#: classes/fields/pick.php:3828
+msgid "Saint Barthélemy"
+msgstr "Saint-Barthélemy"
+
+#: classes/fields/pick.php:3664
+msgid "British Antarctic Territory"
+msgstr "Teritori Antarktika Britania"
+
+#: classes/fields/pick.php:3665
+msgid "British Indian Ocean Territory"
+msgstr "Wilayah Samudra Hindia Britania"
+
+#: classes/fields/pick.php:3674
+msgid "Canton and Enderbury Islands"
+msgstr "Kepulauan Canton and Enderbury"
+
+#: classes/fields/pick.php:3681
+msgid "Christmas Island"
+msgstr "Pulau Natal"
+
+#: classes/fields/pick.php:3682
+msgid "Cocos [Keeling] Islands"
+msgstr "Kepulauan Cocos (Keeling)"
+
+#: classes/fields/pick.php:3684
+msgid "Comoros"
+msgstr "Komoro"
+
+#: classes/fields/pick.php:3685
+msgid "Congo - Brazzaville"
+msgstr "Congo - Brazzaville"
+
+#: classes/fields/pick.php:3686
+msgid "Congo - Kinshasa"
+msgstr "Congo - Kinshasa"
+
+#: classes/fields/pick.php:3687
+msgid "Cook Islands"
+msgstr "Kepulauan Cook"
+
+#: classes/fields/pick.php:3688
+msgid "Costa Rica"
+msgstr "Kosta Rika"
+
+#: classes/fields/pick.php:3689
+msgid "Croatia"
+msgstr "Kroasia"
+
+#: classes/fields/pick.php:3690
+msgid "Cuba"
+msgstr "Kuba"
+
+#: classes/fields/pick.php:3691
+msgid "Cyprus"
+msgstr "Siprus"
+
+#: classes/fields/pick.php:3695
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: classes/fields/pick.php:3696
+msgid "Dominica"
+msgstr "Dominika"
+
+#: classes/fields/pick.php:3697
+msgid "Dominican Republic"
+msgstr "Republik Dominika"
+
+#: classes/fields/pick.php:3702
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: classes/fields/pick.php:3703
+msgid "Equatorial Guinea"
+msgstr "Guinea Khatulistiwa"
+
+#: classes/fields/pick.php:3811
+msgid "Palestinian Territories"
+msgstr "Wilayah Palestina"
+
+#: classes/fields/pick.php:775 src/Pods/Admin/Config/Pod.php:1009
+msgid "Post Formats"
+msgstr "Format Post"
+
+#: classes/fields/pick.php:780
+msgid "Post Status"
+msgstr "Status Post"
+
+#: classes/fields/pick.php:3779
+msgid "Mexico"
+msgstr "Meksiko"
+
+#: classes/fields/pick.php:3698
+msgid "Dronning Maud Land"
+msgstr "Tanah Ratu Maud"
+
+#: classes/fields/boolean.php:54 classes/fields/boolean.php:223
+#: classes/fields/boolean.php:246 classes/PodsAdmin.php:4685
+#: classes/PodsAdmin.php:4689 classes/PodsAdmin.php:4697
+#: classes/PodsAdmin.php:4701 classes/PodsAdmin.php:4705
+#: classes/PodsAdmin.php:4709 classes/PodsAdmin.php:4713
+#: classes/PodsAdmin.php:4717 classes/PodsAdmin.php:4721
+#: classes/PodsAdmin.php:4725 classes/PodsAdmin.php:4729
+#: classes/PodsAdmin.php:4741 classes/PodsAdmin.php:4749
+#: classes/PodsAdmin.php:4753 classes/PodsAdmin.php:4757
+#: classes/PodsAdmin.php:4765 classes/PodsAdmin.php:4769
+#: classes/PodsAdmin.php:4773 classes/PodsAdmin.php:4777
+#: classes/PodsAdmin.php:4781 classes/PodsAdmin.php:4785
+#: classes/PodsAdmin.php:4838 classes/PodsUI.php:2929 classes/PodsUI.php:3367
+#: classes/PodsUI.php:3624 src/Pods/Whatsit/Block_Field.php:295
+msgid "Yes"
+msgstr "Ya"
+
+#: classes/fields/boolean.php:59 classes/fields/boolean.php:224
+#: classes/fields/boolean.php:247 classes/PodsAdmin.php:4685
+#: classes/PodsAdmin.php:4689 classes/PodsAdmin.php:4697
+#: classes/PodsAdmin.php:4701 classes/PodsAdmin.php:4705
+#: classes/PodsAdmin.php:4709 classes/PodsAdmin.php:4713
+#: classes/PodsAdmin.php:4717 classes/PodsAdmin.php:4721
+#: classes/PodsAdmin.php:4725 classes/PodsAdmin.php:4729
+#: classes/PodsAdmin.php:4741 classes/PodsAdmin.php:4749
+#: classes/PodsAdmin.php:4753 classes/PodsAdmin.php:4757
+#: classes/PodsAdmin.php:4765 classes/PodsAdmin.php:4769
+#: classes/PodsAdmin.php:4773 classes/PodsAdmin.php:4777
+#: classes/PodsAdmin.php:4781 classes/PodsAdmin.php:4785
+#: classes/PodsAdmin.php:4838 classes/PodsUI.php:2930 classes/PodsUI.php:3368
+#: classes/PodsUI.php:3625 src/Pods/Whatsit/Block_Field.php:299
+msgid "No"
+msgstr "Tidak"
+
+#: classes/PodsAdmin.php:3717 classes/PodsAdmin.php:3754
+msgid "Category"
+msgstr "Kategori"
+
+#: classes/PodsAdmin.php:3725 src/Pods/Admin/Config/Field.php:147
+msgid "Description"
+msgstr "Deskripsi"
+
+#: classes/PodsAdmin.php:3748
+msgid "Integration"
+msgstr "Integrasi"
+
+#: classes/PodsInit.php:2016 classes/PodsUI.php:730
+#: src/Pods/Admin/Config/Pod.php:265 src/Pods/Admin/Config/Pod.php:288
+#: src/Pods/Admin/Config/Pod.php:304 src/Pods/Admin/Config/Pod.php:313
+#: src/Pods/Admin/Config/Pod.php:336 src/Pods/Admin/Config/Pod.php:461
+#: src/Pods/Admin/Config/Pod.php:470 src/Pods/Admin/Config/Pod.php:479
+#: src/Pods/Admin/Config/Pod.php:488
+msgid "Items"
+msgstr "Item"
+
+#: classes/PodsInit.php:2017 classes/PodsUI.php:729
+#: src/Pods/Admin/Config/Pod.php:166 src/Pods/Admin/Config/Pod.php:175
+#: src/Pods/Admin/Config/Pod.php:183 src/Pods/Admin/Config/Pod.php:192
+#: src/Pods/Admin/Config/Pod.php:208 src/Pods/Admin/Config/Pod.php:216
+#: src/Pods/Admin/Config/Pod.php:232 src/Pods/Admin/Config/Pod.php:241
+#: src/Pods/Admin/Config/Pod.php:257 src/Pods/Admin/Config/Pod.php:345
+#: src/Pods/Admin/Config/Pod.php:354 src/Pods/Admin/Config/Pod.php:363
+#: src/Pods/Admin/Config/Pod.php:377 src/Pods/Admin/Config/Pod.php:393
+#: src/Pods/Admin/Config/Pod.php:402 src/Pods/Admin/Config/Pod.php:411
+#: src/Pods/Admin/Config/Pod.php:420 src/Pods/Admin/Config/Pod.php:565
+#: src/Pods/Admin/Config/Pod.php:574 src/Pods/Admin/Config/Pod.php:583
+#: src/Pods/Admin/Config/Pod.php:592 src/Pods/Admin/Config/Pod.php:601
+#: src/Pods/Admin/Config/Pod.php:617
+msgid "Item"
+msgstr "Item"
+
+#: classes/PodsInit.php:2029 src/Pods/Admin/Config/Pod.php:181
+msgid "New %s"
+msgstr "%s Baru"
+
+#: classes/PodsAdmin.php:283 classes/PodsAdmin.php:310
+#: classes/PodsAdmin.php:311 classes/PodsInit.php:2027
+#: classes/PodsInit.php:2028 classes/PodsInit.php:2068 classes/PodsUI.php:754
+#: classes/PodsUI.php:767 classes/PodsUI.php:778 classes/PodsUI.php:779
+msgid "Add New %s"
+msgstr "Tambah %s Baru"
+
+#: classes/PodsInit.php:2031 classes/PodsInit.php:2065
+#: classes/PodsInit.php:2699 classes/PodsUI.php:768
+#: src/Pods/Admin/Config/Pod.php:206
+msgid "Edit %s"
+msgstr "Edit %s"
+
+#. translators: %s: The singular item label.
+#: classes/PodsInit.php:2032 classes/PodsInit.php:2033
+#: classes/PodsInit.php:2034 classes/PodsInit.php:2066 classes/PodsUI.php:770
+#: classes/PodsUI.php:783 src/Pods/Admin/Config/Pod.php:255
+#: src/Pods/Admin/Config/Pod.php:263 ui/admin/view.php:34 ui/forms/form.php:130
+#: ui/forms/type/post.php:63
+msgid "View %s"
+msgstr "Lihat %s"
+
+#: classes/PodsInit.php:2035 classes/PodsInit.php:2062
+#: src/Pods/Admin/Config/Pod.php:311
+msgid "All %s"
+msgstr "Semua %s"
+
+#. Translators: %s stands for a name/identifier.
+#: classes/PodsI18n.php:176 classes/PodsInit.php:2036 classes/PodsInit.php:2060
+#: classes/PodsUI.php:772 src/Pods/Admin/Config/Pod.php:326
+msgid "Search %s"
+msgstr "Cari %s"
+
+#: classes/PodsInit.php:2037 src/Pods/Admin/Config/Pod.php:375
+msgid "No %s Found"
+msgstr "%s Tidak Ditemukan"
+
+#: classes/PodsInit.php:2038
+msgid "No %s Found in Trash"
+msgstr "Tidak Ditemukan %s di Tempat Sampah"
+
+#: classes/PodsInit.php:2039 classes/PodsInit.php:2063
+#: src/Pods/Admin/Config/Pod.php:343 src/Pods/Admin/Config/Pod.php:352
+msgid "Parent %s"
+msgstr "Induk %s"
+
+#: classes/PodsInit.php:2040 src/Pods/Admin/Config/Pod.php:361
+msgid "Parent %s:"
+msgstr "Induk %s:"
+
+#: classes/PodsInit.php:2061 src/Pods/Admin/Config/Pod.php:334
+msgid "Popular %s"
+msgstr "%s Populer"
+
+#: classes/PodsInit.php:2064
+msgid "Parent %s :"
+msgstr "Induk %s:"
+
+#: classes/PodsInit.php:2067 classes/PodsUI.php:780
+#: src/Pods/Admin/Config/Pod.php:214
+msgid "Update %s"
+msgstr "Perbarui %s"
+
+#: classes/PodsInit.php:2071 src/Pods/Admin/Config/Pod.php:536
+msgid "Add or remove %s"
+msgstr "Tambah atau hapus %s"
+
+#: classes/PodsAdmin.php:1915 classes/PodsI18n.php:169 classes/PodsUI.php:757
+#: classes/PodsUI.php:760 classes/PodsUI.php:4460 includes/access.php:1916
+#: src/Pods/Admin/Config/Pod.php:248 src/Pods/Blocks/Types/View.php:167
+msgid "View"
+msgstr "Lihat"
+
+#: classes/PodsUI.php:766 src/Pods/Admin/Config/Pod.php:286
+msgid "Manage %s"
+msgstr "Kelola %s"
+
+#: classes/PodsUI.php:769 classes/PodsUI.php:781
+#: src/Pods/Admin/Config/Pod.php:230
+msgid "Duplicate %s"
+msgstr "Duplikasi %s"
+
+#: classes/PodsUI.php:771 classes/PodsUI.php:784
+#: src/Pods/Admin/Config/Pod.php:302
+msgid "Reorder %s"
+msgstr "Urutkan %s"
+
+#: classes/PodsInit.php:2070 src/Pods/Admin/Config/Pod.php:527
+msgid "Separate %s with commas"
+msgstr "Pisahkan %s dengan koma"
+
+#: classes/PodsInit.php:2072 src/Pods/Admin/Config/Pod.php:545
+msgid "Choose from the most used %s"
+msgstr "Pilih dari %s yang sering digunakan"
+
+#: classes/PodsInit.php:1963 components/Pages.php:535
+#: components/Templates/Templates.php:283
+msgid "%s saved."
+msgstr "%s tersimpan."
+
+#. translators: Publish box date format, see http://php.net/date
+#: classes/PodsInit.php:1968 classes/PodsInit.php:1980 components/Pages.php:540
+#: components/Pages.php:552 components/Templates/Templates.php:288
+#: components/Templates/Templates.php:300 ui/admin/view.php:45
+#: ui/forms/type/post.php:74
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: classes/PodsAdmin.php:4155
+msgid "Access denied"
+msgstr "Akses ditolak"
+
+#: classes/fields/file.php:1114 classes/fields/file.php:1118
+#: classes/fields/file.php:1136 classes/fields/oembed.php:515
+#: classes/fields/pick.php:3220 classes/fields/pick.php:3246
+#: classes/PodsAdmin.php:4138 classes/PodsComponents.php:781
+#: components/Templates/includes/functions-pod_reference.php:13
+msgid "Unauthorized request"
+msgstr "Permintaan yang tidak sah"
+
+#: classes/PodsAdmin.php:3850 classes/PodsAdmin.php:3890
+msgid "Component disabled"
+msgstr "Komponen dimatikan"
+
+#: classes/PodsAdmin.php:3848 classes/PodsAdmin.php:3888
+msgid "Component enabled"
+msgstr "Komponen diaktifkan"
+
+#: classes/PodsUI.php:1875 components/Roles/ui/edit.php:16
+#: ui/admin/settings-settings.php:50
+msgid "saved"
+msgstr "tersimpan"
+
+#: classes/PodsUI.php:1439 classes/PodsUI.php:1513 classes/PodsUI.php:1826
+#: classes/PodsUI.php:2698 src/Pods/Admin/Config/Pod.php:486
+msgid "Back to %s"
+msgstr "Kembali ke %s"
+
+#: classes/PodsUI.php:782
+msgid "Delete this %s"
+msgstr "Hapus %s"
+
+#: classes/PodsUI.php:3055 classes/PodsUI.php:4719
+msgid "Apply"
+msgstr "Terapkan"
+
+#: classes/PodsUI.php:3081
+msgid "Cancel"
+msgstr "Batal"
+
+#: classes/PodsUI.php:3261
+msgid "Reset"
+msgstr "Atur ulang"
+
+#: classes/fields/color.php:45 classes/fields/color.php:100
+#: classes/PodsUI.php:3526 classes/PodsUI.php:3585 classes/PodsUI.php:3634
+#: classes/PodsUI.php:3673 ui/fields/color.php:19
+msgid "Clear"
+msgstr "Bersihkan"
+
+#: classes/PodsUI.php:3705
+msgid "Search Text"
+msgstr "Cari Teks"
+
+#: classes/PodsUI.php:3768
+msgid "No %s found"
+msgstr "Tidak ada %s ditemukan"
+
+#: classes/PodsUI.php:4685 classes/PodsUI.php:4705
+msgid "Show on screen"
+msgstr "Tampilkan di layar"
+
+#: classes/PodsUI.php:4223 classes/PodsUI.php:4459
+msgid "View this item"
+msgstr "Lihat item ini"
+
+#: classes/PodsUI.php:4515
+msgid "Duplicate this item"
+msgstr "Duplikasi item ini"
+
+#: classes/PodsUI.php:4544
+msgid "Delete this item"
+msgstr "Hapus item ini"
+
+#: classes/fields/currency.php:89
+msgid "Before (ex. $100)"
+msgstr "Sebelum (misal. $100)"
+
+#: classes/fields/currency.php:90
+msgid "After (ex. 100$)"
+msgstr "Setelah (misal. 100$)"
+
+#: classes/fields/link.php:46 classes/fields/phone.php:44
+#: classes/fields/website.php:43
+msgid "Format"
+msgstr "Format"
+
+#: classes/fields/currency.php:117 classes/fields/number.php:72
+msgid "Decimals"
+msgstr "Desimal"
+
+#: classes/fields/currency.php:145 classes/fields/number.php:108
+msgid "Minimum Number"
+msgstr "Angka Minimal"
+
+#: classes/fields/currency.php:154 classes/fields/number.php:117
+msgid "Maximum Number"
+msgstr "Angka Maksimal"
+
+#. Translators: %s stands for the input value.
+#: classes/fields/number.php:318
+msgid "%s is not numeric"
+msgstr "%s bukan numerik"
+
+#: classes/fields/date.php:90
+msgid "Date Format"
+msgstr "Format Tanggal"
+
+#: classes/fields/datetime.php:119 classes/fields/time.php:60
+msgid "Time Format Type"
+msgstr "Jenis Format Waktu"
+
+#: classes/fields/datetime.php:127 classes/fields/time.php:67
+msgid "12 hour"
+msgstr "12 jam"
+
+#: classes/fields/datetime.php:128 classes/fields/time.php:68
+msgid "24 hour"
+msgstr "24 jam"
+
+#: classes/fields/currency.php:69 classes/fields/number.php:49
+msgid "Slider"
+msgstr "Slider"
+
+#: classes/fields/currency.php:76
+msgid "Currency Sign"
+msgstr "Tanda Mata Uang"
+
+#: classes/fields/boolean.php:58
+msgid "No Label"
+msgstr "Tanpa Label"
+
+#: classes/fields/boolean.php:53
+msgid "Yes Label"
+msgstr "Dengan Label"
+
+#: classes/fields/boolean.php:40 classes/fields/currency.php:64
+#: classes/fields/number.php:44 classes/fields/pick.php:173
+#: classes/fields/pick.php:211
+msgid "Input Type"
+msgstr "Jenis Masukan"
+
+#: classes/fields/boolean.php:44
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: classes/fields/boolean.php:45 classes/fields/pick.php:183
+msgid "Radio Buttons"
+msgstr "Tombol Radio"
+
+#: classes/fields/boolean.php:46 classes/fields/pick.php:182
+msgid "Drop Down"
+msgstr "Drop Down"
+
+#: classes/fields/file.php:249 classes/fields/file.php:261
+#: ui/fields/attachment.php:124
+msgid "Add File"
+msgstr "Tambah Berkas"
+
+#: classes/fields/code.php:87 classes/fields/email.php:47
+#: classes/fields/paragraph.php:142 classes/fields/password.php:46
+#: classes/fields/phone.php:75 classes/fields/text.php:97
+#: classes/fields/website.php:87
+msgid "Set to -1 for no limit"
+msgstr "Atur menjadi -1 untuk tanpa batas"
+
+#: classes/PodsUI.php:4920
+msgid "Go to the next page"
+msgstr "Pergi ke halaman berikutnya"
+
+#: classes/PodsUI.php:4921
+msgid "Go to the last page"
+msgstr "Pergi ke halaman terakhir"
+
+#: classes/fields/file.php:151
+msgid "Upload File"
+msgstr "Unggah Berkas"
+
+#: classes/fields/file.php:152
+msgid "Media Library"
+msgstr "Perpustakaan Media"
+
+#: classes/fields/file.php:248
+msgid "Add Button Text"
+msgstr "Tambahkan Tombol Teks"
+
+#: classes/fields/file.php:126
+msgid "Any Type (no restriction)"
+msgstr "Jenis apapun (tanpa larangan)"
+
+#: classes/fields/file.php:136
+msgid "Allowed File Extensions"
+msgstr "Ekstensi Berkas Yang Diperbolehkan"
+
+#: classes/fields/file.php:80
+msgid "Single File"
+msgstr "Berkas Tunggal"
+
+#: classes/fields/file.php:81
+msgid "Multiple Files"
+msgstr "Banyak Berkas"
+
+#: classes/fields/time.php:97 classes/fields/time.php:118
+msgid "Time Format"
+msgstr "Format Waktu"
+
+#: classes/fields/file.php:104
+msgid "Restrict File Types"
+msgstr "Pembatasan Jenis Berkas"
+
+#: classes/fields/phone.php:48
+msgid "US"
+msgstr "Amerika Serikat"
+
+#: classes/fields/phone.php:53
+msgid "International"
+msgstr "Internasional"
+
+#: classes/fields/phone.php:54
+msgid "Any (no validation available)"
+msgstr "Apapun (tidak ada validasi tersedia)"
+
+#: classes/fields/phone.php:61
+msgid "Phone Options"
+msgstr "Opsi Telepon"
+
+#: classes/fields/link.php:92 classes/fields/paragraph.php:132
+#: classes/fields/text.php:88 classes/fields/wysiwyg.php:163
+msgid "Allowed HTML Tags"
+msgstr "Tag HTML Yang Diperbolehkan"
+
+#: classes/PodsAdmin.php:3621
+msgid "by %s"
+msgstr "oleh %s"
+
+#: classes/PodsAdmin.php:2806
+msgid "Pod deleted successfully."
+msgstr "Pod berhasil dihapus."
+
+#: classes/PodsAdmin.php:2788 classes/PodsAdmin.php:2852
+#: classes/PodsAdmin.php:2927 classes/PodsAdmin.php:3003
+#: classes/PodsAdmin.php:3077 classes/PodsAdmin.php:3249
+#: classes/PodsAdmin.php:3348 classes/PodsAdmin.php:3441
+#: includes/general.php:1922 src/Pods/CLI/Commands/Tools.php:64
+#: src/Pods/CLI/Commands/Tools.php:135 src/Pods/CLI/Commands/Tools.php:202
+#: src/Pods/CLI/Commands/Tools.php:269 src/Pods/Pod_Manager.php:80
+#: ui/admin/settings-reset.php:41 ui/admin/settings-tools.php:47
+msgid "Pod not found."
+msgstr "Pod tidak ditemukan."
+
+#: classes/PodsAdmin.php:3749
+msgid "Migration"
+msgstr "Migrasi."
+
+#: classes/PodsAdmin.php:3763
+msgid "Developer Preview"
+msgstr "Pratinjau Pengembang"
+
+#: classes/PodsUI.php:4892 classes/PodsUI.php:4908
+msgid "of"
+msgstr "dari"
+
+#: classes/PodsUI.php:4892
+msgid "Current page"
+msgstr "Laman saat ini"
+
+#: classes/PodsUI.php:4888
+msgid "Go to the previous page"
+msgstr "Ke laman sebelumnya"
+
+#: classes/PodsUI.php:4887
+msgid "Go to the first page"
+msgstr "Ke laman pertama"
+
+#: classes/PodsAdmin.php:4387 classes/PodsUI.php:4567 includes/access.php:1873
+#: includes/access.php:1938 includes/access.php:1961
+#: src/Pods/Admin/Settings.php:208 src/Pods/Admin/Settings.php:235
+#: src/Pods/Admin/Settings.php:254 src/Pods/Admin/Settings.php:274
+#: src/Pods/Admin/Settings.php:297 src/Pods/Admin/Settings.php:316
+#: src/Pods/Admin/Settings.php:354
+msgid "Enable"
+msgstr "Perbolehkan"
+
+#: classes/PodsUI.php:4568 includes/access.php:1874 includes/access.php:1939
+#: includes/access.php:1962 includes/access.php:1984 includes/access.php:2011
+#: src/Pods/Admin/Settings.php:209 src/Pods/Admin/Settings.php:236
+#: src/Pods/Admin/Settings.php:255 src/Pods/Admin/Settings.php:275
+#: src/Pods/Admin/Settings.php:298 src/Pods/Admin/Settings.php:317
+#: src/Pods/Admin/Settings.php:355
+msgid "Disable"
+msgstr "Matikan"
+
+#: classes/PodsUI.php:4203 classes/PodsUI.php:4487
+msgid "Edit this item"
+msgstr "Edit item ini"
+
+#: classes/PodsAdmin.php:3747 ui/admin/settings.php:27
+msgid "Tools"
+msgstr "Perkakas"
+
+#: classes/PodsAdmin.php:3799 classes/PodsAdmin.php:3821
+msgid "You can find it at %s"
+msgstr "Anda dapat menemukannya di %s"
+
+#: classes/PodsAdmin.php:3624
+msgid "Visit component site"
+msgstr "Kunjungi situs komponen"
+
+#: classes/PodsUI.php:1558 classes/PodsUI.php:1698
+msgid "<strong>Error:</strong> %s not found."
+msgstr "<strong>Eror:</strong> %s tidak ditemukan."
+
+#: classes/PodsUI.php:1354 classes/PodsUI.php:1411 classes/PodsUI.php:1470
+#: classes/PodsUI.php:1562 classes/PodsUI.php:1591
+msgid "<strong>Error:</strong> You do not have access to this %s."
+msgstr "<strong>Eror:</strong> Anda tidak memiliki akses ke %s."
+
+#: classes/fields/pick.php:184 classes/fields/pick.php:222
+msgid "Autocomplete"
+msgstr "Autocomplete"
+
+#: classes/fields/currency.php:93
+msgid "None (ex. 100)"
+msgstr "Tidak ada (misal. 100)"
+
+#: classes/fields/pick.php:295 classes/fields/pick.php:1041
+#: classes/PodsAdmin.php:357 classes/PodsAdmin.php:376
+#: classes/PodsAdmin.php:544 classes/PodsField.php:595 classes/PodsI18n.php:151
+#: src/Pods/Admin/Config/Field.php:258 src/Pods/Admin/Config/Pod.php:1583
+msgid "Add New"
+msgstr "Tambahkan Baru"
+
+#: classes/PodsAdmin.php:281 classes/PodsAdmin.php:355 classes/PodsI18n.php:171
+#: classes/PodsInit.php:2030 classes/PodsUI.php:755 classes/PodsUI.php:4488
+#: src/Pods/Admin/Config/Pod.php:199 src/Pods/Admin/Config/Pod.php:1584
+msgid "Edit"
+msgstr "Sunting"
+
+#: classes/Pods.php:4574 src/Pods/Admin/Config/Pod.php:1588
+msgid "Export"
+msgstr "Ekspor"
+
+#: classes/PodsAdmin.php:3750 src/Pods/Admin/Config/Field.php:52
+#: src/Pods/Admin/Config/Group.php:24 src/Pods/Admin/Config/Group.php:209
+#: ui/admin/setup-add.php:306 ui/admin/setup-add.php:532
+msgid "Advanced"
+msgstr "Pengaturan Lanjutan"
+
+#: classes/PodsAdmin.php:562 classes/PodsAdmin.php:583
+#: ui/admin/components-admin.php:16 ui/admin/settings-settings.php:97
+#: ui/admin/settings-settings.php:101 ui/admin/settings.php:26
+#: ui/admin/upgrade/upgrade_2_0_0.php:208
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: classes/PodsAdmin.php:953 classes/PodsAdmin.php:1505
+#: classes/PodsAdmin.php:3709 classes/PodsUI.php:797
+#: components/Roles/Roles.php:91 components/Roles/ui/add.php:49
+#: src/Pods/Admin/Config/Field.php:136 src/Pods/Admin/Config/Group.php:99
+#: src/Pods/Admin/Config/Pod.php:1643 src/Pods/Tools/Repair.php:326
+#: src/Pods/Tools/Repair.php:400 src/Pods/Tools/Repair.php:823
+#: src/Pods/Tools/Repair.php:893 src/Pods/Tools/Repair.php:1039
+msgid "Name"
+msgstr "Nama"
+
+#: classes/Pods.php:3388
+msgid "Go to page:"
+msgstr "Pergi ke halaman:"
+
+#: classes/Pods.php:3390
+msgid "&laquo; First"
+msgstr "&laquo; Pertama"
+
+#: classes/Pods.php:3392
+msgid "Next &rsaquo;"
+msgstr "Berikutnya &rsaquo;"
+
+#: classes/Pods.php:3391
+msgid "&lsaquo; Previous"
+msgstr "&lsaquo; Sebelumnya"
+
+#: classes/Pods.php:3393
+msgid "Last &raquo;"
+msgstr "Terakhir &raquo;"
+
+#: classes/Pods.php:4581 classes/PodsAdmin.php:1346 classes/PodsUI.php:4544
+#: src/Pods/Admin/Config/Pod.php:1586 ui/admin/view.php:85
+#: ui/forms/type/post.php:134
+msgid "Delete"
+msgstr "Hapus"
+
+#: classes/Pods.php:4473 src/Pods/Admin/Config/Pod.php:1637
+#: src/Pods/Tools/Repair.php:159 src/Pods/Tools/Repair.php:328
+#: src/Pods/Tools/Repair.php:404 src/Pods/Tools/Repair.php:603
+#: src/Pods/Tools/Repair.php:711 src/Pods/Tools/Repair.php:825
+#: src/Pods/Tools/Repair.php:895 src/Pods/Tools/Repair.php:1041
+msgid "ID"
+msgstr "ID"
+
+#: classes/PodsAPI.php:939 classes/PodsAPI.php:950
+msgid "Closed"
+msgstr "Tertutup"
+
+#: classes/PodsAPI.php:938 classes/PodsAPI.php:949
+msgid "Open"
+msgstr "Terbuka"
+
+#: classes/PodsAPI.php:1753 classes/PodsAPI.php:3229 classes/PodsAPI.php:4260
+#: classes/PodsAPI.php:4886 classes/PodsAPI.php:6516 classes/PodsAPI.php:6871
+#: classes/PodsAPI.php:7316 classes/PodsAPI.php:7453 classes/PodsAPI.php:7646
+#: classes/PodsAPI.php:7981 classes/PodsAPI.php:8461 classes/PodsAPI.php:9443
+#: classes/PodsAPI.php:11072
+msgid "Pod not found"
+msgstr "Pod tidak ditemukan"
+
+#: classes/PodsAPI.php:7266
+msgid "Pod is required"
+msgstr "Pod diperukan"
+
+#: classes/PodsAPI.php:7514
+msgid "Pod unable to be deleted"
+msgstr "Pod tidak dapat dapat dihapus"
+
+#: classes/PodsAPI.php:7846
+msgid "%s Object not found"
+msgstr "Objek %s tidak ditemukan"
+
+#: classes/PodsAPI.php:2281
+msgid "Cannot save Pod"
+msgstr "Tidak dapat menyimpan Pod"
+
+#: classes/PodsAPI.php:2516
+msgid "Cannot save the %s field"
+msgstr "Tidak dapat menyimpan bidang %s"
+
+#: classes/PodsAPI.php:3211 classes/PodsAPI.php:4246
+msgid "Pod ID or name is required"
+msgstr "ID atau nama Pod diperlukan"
+
+#: classes/PodsAPI.php:2083
+msgid "Pod name cannot be empty"
+msgstr "Nama Pod tidak dapat kosong"
+
+#: classes/PodsAPI.php:1866
+msgid "Pod %s already exists"
+msgstr "Pod %s sudah ada"
+
+#: classes/PodsInit.php:908
+#: src/Pods/Integrations/Query_Monitor/Outputters/Constants.php:27
+#: ui/admin/upgrade/upgrade_2_0_0.php:73 ui/admin/upgrade/upgrade_2_0_0.php:181
+msgid "Pods"
+msgstr "Pods"
+
+#: classes/PodsInit.php:909
+#: components/Builder/modules/field/PodsBuilderModuleField.php:85
+#: components/Builder/modules/form/PodsBuilderModuleForm.php:87
+#: components/Builder/modules/list/PodsBuilderModuleList.php:90
+#: components/Builder/modules/single/PodsBuilderModuleSingle.php:86
+#: src/Pods/Whatsit/Store.php:105 ui/admin/settings-reset.php:134
+#: ui/admin/settings-tools.php:127 ui/admin/widgets/field.php:32
+#: ui/admin/widgets/form.php:32 ui/admin/widgets/list.php:34
+#: ui/admin/widgets/single.php:34
+msgid "Pod"
+msgstr "Pod"
+
+#: classes/PodsInit.php:946
+msgid "Pod Fields"
+msgstr "Bidang Pod"
+
+#: classes/PodsInit.php:947 src/Pods/Whatsit/Store.php:113
+msgid "Pod Field"
+msgstr "Bidang Pod"
+
+#: classes/PodsAPI.php:11802
+msgid "Object not found"
+msgstr "Objek tidak ditemukan"
+
+#: classes/PodsAPI.php:9395
+msgid "Pod name required"
+msgstr "Nama Pod diperlukan"
+
+#: classes/PodsAPI.php:9398
+msgid "Item ID required"
+msgstr "ID item diperlukan"
+
+#: classes/PodsAPI.php:9468
+msgid "Related Pod not found"
+msgstr "Pod terkait tidak ditemukan"
+
+#: classes/PodsAPI.php:7960
+msgid "Pod Item not found"
+msgstr "Item Pod tidak ditemukan"
+
+#: classes/PodsAPI.php:7863
+msgid "%s Object not deleted"
+msgstr "Objek %s tidak terhapus"
+
+#: classes/PodsAPI.php:7256
+msgid "$params->pod is required"
+msgstr "$params->pod diperlukan"
+
+#: classes/PodsAPI.php:6782 classes/PodsAPI.php:7680
+msgid "Field not found"
+msgstr "Bidang tidak ditemukan"
+
+#: classes/PodsAPI.php:3774
+msgid "Cannot save Field"
+msgstr "Tidak dapat menyimpan bidang"
+
+#: classes/PodsAPI.php:3657 classes/PodsAPI.php:3685 classes/PodsAPI.php:4473
+msgid "%s is not editable"
+msgstr "%s tidak dapat diedit"
+
+#: classes/PodsAPI.php:1895 classes/PodsAPI.php:3382 classes/PodsAPI.php:3586
+#: classes/PodsAPI.php:3683 classes/PodsAPI.php:4323 classes/PodsAPI.php:4432
+msgid "%s is reserved for internal WordPress or Pods usage, please try a different name"
+msgstr "%s sudah dipesan untuk internal WordPress atau penggunaan Pods, silahkan coba nama yang berbeda"
+
+#: classes/PodsAPI.php:3391
+msgid "Field %s already exists"
+msgstr "Bidang %s sudah ada"
+
+#: classes/PodsAdmin.php:950 classes/PodsAdmin.php:1502
+#: components/Roles/Roles.php:90 components/Roles/ui/add.php:40
+#: src/Pods/Admin/Config/Field.php:128 src/Pods/Admin/Config/Group.php:91
+#: src/Pods/Admin/Config/Pod.php:142
+msgid "Label"
+msgstr "Label"
+
+#: classes/PodsAdmin.php:956 classes/PodsAdmin.php:1384
+#: classes/PodsAdmin.php:1508 classes/PodsAdmin.php:1922
+#: src/Pods/Admin/Config/Pod.php:1650 src/Pods/Tools/Repair.php:402
+msgid "Type"
+msgstr "Jenis"
+
+#: classes/PodsAdmin.php:964 ui/admin/setup-add.php:368
+#: ui/admin/setup-add.php:538
+msgid "Storage Type"
+msgstr "Jenis Penyimpanan"
+
+#: classes/PodsAdmin.php:1299 src/Pods/Tools/Reset.php:249
+msgid "field"
+msgid_plural "fields"
+msgstr[0] "bidang"
+msgstr[1] "bidang"
+
+#: src/Pods/Admin/Config/Pod.php:55
+msgid "Labels"
+msgstr "Label"
+
+#: src/Pods/Admin/Config/Pod.php:59
+msgid "Admin UI"
+msgstr "Admin UI"
+
+#: src/Pods/Admin/Config/Pod.php:67
+msgid "Advanced Options"
+msgstr "Opsi Lanjutan"
+
+#: src/Pods/Admin/Config/Pod.php:664
+msgid "Post Type Description"
+msgstr "Deskripsi Jenis Post"
+
+#: src/Pods/Admin/Config/Field.php:499 src/Pods/Admin/Config/Field.php:508
+#: src/Pods/Admin/Config/Group.php:92 src/Pods/Admin/Config/Group.php:100
+#: src/Pods/Admin/Config/Group.php:168 src/Pods/Admin/Config/Pod.php:143
+#: src/Pods/Admin/Config/Pod.php:150 src/Pods/Admin/Config/Pod.php:157
+#: src/Pods/Admin/Config/Pod.php:184 src/Pods/Admin/Config/Pod.php:193
+#: src/Pods/Admin/Config/Pod.php:200 src/Pods/Admin/Config/Pod.php:209
+#: src/Pods/Admin/Config/Pod.php:217 src/Pods/Admin/Config/Pod.php:224
+#: src/Pods/Admin/Config/Pod.php:233 src/Pods/Admin/Config/Pod.php:242
+#: src/Pods/Admin/Config/Pod.php:249 src/Pods/Admin/Config/Pod.php:258
+#: src/Pods/Admin/Config/Pod.php:266 src/Pods/Admin/Config/Pod.php:273
+#: src/Pods/Admin/Config/Pod.php:280 src/Pods/Admin/Config/Pod.php:289
+#: src/Pods/Admin/Config/Pod.php:296 src/Pods/Admin/Config/Pod.php:305
+#: src/Pods/Admin/Config/Pod.php:314 src/Pods/Admin/Config/Pod.php:320
+#: src/Pods/Admin/Config/Pod.php:329 src/Pods/Admin/Config/Pod.php:337
+#: src/Pods/Admin/Config/Pod.php:346 src/Pods/Admin/Config/Pod.php:355
+#: src/Pods/Admin/Config/Pod.php:364 src/Pods/Admin/Config/Pod.php:370
+#: src/Pods/Admin/Config/Pod.php:378 src/Pods/Admin/Config/Pod.php:385
+#: src/Pods/Admin/Config/Pod.php:394 src/Pods/Admin/Config/Pod.php:403
+#: src/Pods/Admin/Config/Pod.php:412 src/Pods/Admin/Config/Pod.php:421
+#: src/Pods/Admin/Config/Pod.php:428 src/Pods/Admin/Config/Pod.php:436
+#: src/Pods/Admin/Config/Pod.php:444 src/Pods/Admin/Config/Pod.php:452
+#: src/Pods/Admin/Config/Pod.php:462 src/Pods/Admin/Config/Pod.php:471
+#: src/Pods/Admin/Config/Pod.php:480 src/Pods/Admin/Config/Pod.php:489
+#: src/Pods/Admin/Config/Pod.php:496 src/Pods/Admin/Config/Pod.php:504
+#: src/Pods/Admin/Config/Pod.php:512 src/Pods/Admin/Config/Pod.php:520
+#: src/Pods/Admin/Config/Pod.php:530 src/Pods/Admin/Config/Pod.php:539
+#: src/Pods/Admin/Config/Pod.php:548 src/Pods/Admin/Config/Pod.php:557
+#: src/Pods/Admin/Config/Pod.php:566 src/Pods/Admin/Config/Pod.php:575
+#: src/Pods/Admin/Config/Pod.php:584 src/Pods/Admin/Config/Pod.php:593
+#: src/Pods/Admin/Config/Pod.php:602 src/Pods/Admin/Config/Pod.php:609
+#: src/Pods/Admin/Config/Pod.php:618 src/Pods/Admin/Config/Pod.php:646
+#: src/Pods/Admin/Config/Pod.php:653 src/Pods/Admin/Config/Pod.php:686
+#: src/Pods/Admin/Config/Pod.php:692 src/Pods/Admin/Config/Pod.php:716
+#: src/Pods/Admin/Config/Pod.php:723 src/Pods/Admin/Config/Pod.php:822
+#: src/Pods/Admin/Config/Pod.php:843 src/Pods/Admin/Config/Pod.php:921
+#: src/Pods/Admin/Config/Pod.php:929 src/Pods/Admin/Config/Pod.php:944
+#: src/Pods/Admin/Config/Pod.php:1126 src/Pods/Admin/Config/Pod.php:1133
+#: src/Pods/Admin/Config/Pod.php:1151 src/Pods/Admin/Config/Pod.php:1174
+#: src/Pods/Admin/Config/Pod.php:1181 src/Pods/Admin/Config/Pod.php:1188
+#: src/Pods/Admin/Config/Pod.php:1312 src/Pods/Admin/Config/Pod.php:1320
+#: src/Pods/Admin/Config/Pod.php:1336 src/Pods/Admin/Config/Pod.php:1364
+#: src/Pods/Admin/Config/Pod.php:1371 src/Pods/Admin/Config/Pod.php:1378
+#: src/Pods/Admin/Config/Pod.php:1385 src/Pods/Admin/Config/Pod.php:1448
+#: src/Pods/Admin/Config/Pod.php:1461 src/Pods/Admin/Config/Pod.php:1475
+#: src/Pods/Admin/Config/Pod.php:1518 src/Pods/Admin/Config/Pod.php:1530
+#: src/Pods/Admin/Config/Pod.php:1538 src/Pods/Admin/Config/Pod.php:1548
+#: src/Pods/Admin/Config/Pod.php:1579 src/Pods/Admin/Config/Pod.php:1602
+#: src/Pods/Admin/Config/Pod.php:1610 ui/fields/_label.php:15
+msgid "help"
+msgstr "bantuan"
+
+#: src/Pods/Admin/Config/Pod.php:670 src/Pods/Admin/Config/Pod.php:1108
+msgid "Show Admin UI"
+msgstr "Tampilkan Admin UI"
+
+#: classes/PodsAdmin.php:1457 classes/PodsAdmin.php:1687
+#: classes/PodsAdmin.php:2872 includes/access.php:1570
+#: src/Pods/Admin/Config/Pod.php:791 src/Pods/Admin/Config/Pod.php:810
+#: src/Pods/Admin/Config/Pod.php:1255 src/Pods/Admin/Config/Pod.php:1275
+msgid "Public"
+msgstr "Publik"
+
+#: src/Pods/Admin/Config/Pod.php:880 src/Pods/Admin/Config/Pod.php:1303
+#: src/Pods/Admin/Config/Pod.php:1710
+msgid "Hierarchical"
+msgstr "Hirarkis"
+
+#: src/Pods/Admin/Config/Pod.php:828 src/Pods/Admin/Config/Pod.php:1343
+msgid "User Capability"
+msgstr "Kapabilitas Pengguna"
+
+#: src/Pods/Admin/Config/Pod.php:936 src/Pods/Admin/Config/Pod.php:1363
+msgid "Query Var"
+msgstr "Query Var"
+
+#: src/Pods/Admin/Config/Pod.php:1132 src/Pods/Admin/Config/Pod.php:1460
+#: ui/admin/setup-add.php:271
+msgid "Menu Location"
+msgstr "Lokasi Menu"
+
+#: classes/Pods.php:4084 classes/PodsAdmin.php:797 classes/PodsForm.php:399
+#: ui/admin/components-admin.php:113
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+#: classes/PodsAPI.php:9620
+msgid "%s is empty"
+msgstr "%s masih kosong"
+
+#: classes/fields/email.php:143 classes/PodsAPI.php:9637
+msgid "%s is required"
+msgstr "%s diperlukan"
+
+#: classes/PodsAPI.php:9668
+msgid "%s needs to be unique"
+msgstr "%s harus unik"
+
+#: classes/PodsAPI.php:11517
+msgid "Invalid submission"
+msgstr "Pengajuan tidak sah"
+
+#: classes/PodsAdmin.php:277 classes/PodsAdmin.php:1382
+#: classes/PodsAdmin.php:1913 classes/PodsAdmin.php:3744
+msgid "All"
+msgstr "Semua"
+
+#: classes/PodsAdmin.php:351 classes/PodsAdmin.php:377 classes/PodsUI.php:753
+#: components/Roles/ui/edit.php:38 src/Pods/Admin/Config/Pod.php:279
+#: ui/admin/view.php:21 ui/forms/type/post.php:50
+msgid "Manage"
+msgstr "Kelola"
+
+#: classes/PodsAdmin.php:538
+msgid "Edit Pods"
+msgstr "Edit Pods"
+
+#: classes/PodsAdmin.php:550 classes/PodsAdmin.php:3704
+msgid "Components"
+msgstr "Komponen"
+
+#: classes/PodsAdmin.php:568 classes/PodsAdmin.php:589
+msgid "Help"
+msgstr "Bantuan"
+
+#: classes/PodsAdmin.php:578 ui/admin/upgrade/upgrade_2_1_0.php:26
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: classes/PodsAdmin.php:636
+msgid "Pods Admin"
+msgstr "Pods Admin"
+
+#: classes/PodsAdmin.php:639
+msgid "Pods Upgrade"
+msgstr "Pods Upgrade"
+
+#: classes/PodsAPI.php:11535
+msgid "Access denied, please refresh and try again."
+msgstr "Akses ditolak, silahkan \"refresh\" dan coba lagi."
+
+#: classes/PodsAPI.php:11531
+msgid "Access denied for your session, please refresh and try again."
+msgstr "Akses ditolah untuk sesi Anda, silahkan \"refresh\" dan coba lagi."
+
+#: classes/PodsAdmin.php:861
+msgid "Pods Shortcode"
+msgstr "Kode pendek Pods"
+
+#: src/Pods/Admin/Config/Pod.php:652 src/Pods/Admin/Config/Pod.php:691
+#: src/Pods/Admin/Config/Pod.php:1125
+msgid "Menu Name"
+msgstr "Nama Menu"
+
+#: src/Pods/Admin/Config/Pod.php:685 src/Pods/Admin/Config/Pod.php:1547
+msgid "Parent Menu ID (optional)"
+msgstr "ID Menu Induk (opsional)"
+
+#: src/Pods/Admin/Config/Pod.php:677 src/Pods/Admin/Config/Pod.php:1116
+#: src/Pods/Admin/Config/Pod.php:1529
+msgid "Show Admin Menu in Dashboard"
+msgstr "Tampilkan Menu Admin di Dasbor"
+
+#: classes/PodsAdmin.php:1340 classes/PodsUI.php:756 classes/PodsUI.php:4516
+#: src/Pods/Admin/Config/Pod.php:223 src/Pods/Admin/Config/Pod.php:1585
+msgid "Duplicate"
+msgstr "Duplikat"
+
+#: src/Pods/Admin/Config/Pod.php:1578
+msgid "Actions Available"
+msgstr "Aksi Tersedia"
+
+#: src/Pods/Admin/Config/Field.php:305
+msgid "Visual"
+msgstr "Visual"
+
+#: src/Pods/Admin/Config/Field.php:317
+msgid "Values"
+msgstr "Nilai"
+
+#: src/Pods/Admin/Config/Field.php:375 src/Pods/Admin/Config/Group.php:131
+msgid "Restrict Access"
+msgstr "Batasi Akses"
+
+#: src/Pods/Admin/Config/Field.php:369 src/Pods/Admin/Config/Group.php:125
+msgid "Visibility"
+msgstr "Visibilitas"
+
+#: src/Pods/Admin/Config/Pod.php:1609
+msgid "Search Filters"
+msgstr "Filter Pencarian"
+
+#: classes/PodsI18n.php:161 classes/PodsUI.php:758
+#: src/Pods/Admin/Config/Pod.php:295 src/Pods/Admin/Config/Pod.php:1587
+msgid "Reorder"
+msgstr "Susun ulang"
+
+#: src/Pods/Admin/Config/Pod.php:1594
+msgid "Reorder Field"
+msgstr "Susun ulang bidang"
+
+#: src/Pods/Admin/Config/Pod.php:708
+msgid "Menu Icon"
+msgstr "Ikon Menu"
+
+#: src/Pods/Admin/Config/Pod.php:698 src/Pods/Admin/Config/Pod.php:1156
+#: src/Pods/Admin/Config/Pod.php:1480 src/Pods/Admin/Config/Pod.php:1553
+msgid "Menu Position"
+msgstr "Posisi Menu"
+
+#: src/Pods/Admin/Config/Pod.php:821
+msgid "Exclude from Search"
+msgstr "Kecualikan dari Pencarian"
+
+#: src/Pods/Admin/Config/Pod.php:896 src/Pods/Admin/Config/Pod.php:1311
+msgid "Rewrite"
+msgstr "Rewrite"
+
+#: src/Pods/Admin/Config/Pod.php:1166 src/Pods/Admin/Config/Pod.php:1490
+#: src/Pods/Admin/Config/Pod.php:1563
+msgid "Menu Icon URL"
+msgstr "URL Ikon Menu"
+
+#: classes/Pods.php:3540 classes/PodsI18n.php:173 classes/PodsUI.php:759
+#: classes/PodsUI.php:2993 classes/PodsUI.php:3268
+#: src/Pods/Admin/Config/Pod.php:319
+msgid "Search"
+msgstr "Cari"
+
+#: classes/Pods.php:4121
+msgid "Form submitted successfully"
+msgstr "Formulis berhasil terkirim"
+
+#: classes/PodsAPI.php:7720
+msgid "Field unable to be deleted"
+msgstr "Bidang tidak dapat dihapus"
+
+#: classes/PodsAPI.php:6522
+msgid "Pod not allowed to be duplicated"
+msgstr "Pod tidak diperbolehkan untuk digandakan"
