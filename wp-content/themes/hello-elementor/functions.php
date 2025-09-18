@@ -297,29 +297,37 @@ function upcoming_events_shortcode_function() {
         while ($upcoming_events->have_posts()) {
             $upcoming_events->the_post();
 
-            $event_location = pods_field_display('event_location');
-            $event_datetime = pods_field_display('event_datetime');
-            $event_price    = pods_field_display('event_price');
+            $location_data = pods_field('event_location');
+            $location      = !empty($location_data[0]) ? $location_data[0] : '';
+            
+            $datetime_data = pods_field('event_datetime');
+            $datetime_raw  = !empty($datetime_data[0]) ? $datetime_data[0] : '';
+            $datetime_formatted = !empty($datetime_raw) ? date("d/m/Y H:i", strtotime($datetime_raw)) : '';
+            
+            $price_data    = pods_field('event_price');
+            $price_val     = !empty($price_data[0]) ? $price_data[0] : 0;
 
-            if (is_array($event_price) && !empty($event_price)) {
-                $event_price = $event_price[0];
+            $banner_data   = pods_field('event_banner');
+
+            $output .= '<div class="upcoming-event-item" style="border:1px solid #ddd;padding:20px;margin-bottom:20px;border-radius:8px;background:#fff;box-shadow:0 2px 5px rgba(0,0,0,0.05);">';
+
+            if (!empty($banner_data)) {
+                $banner_url = $banner_data['guid'];
+                $output .= '<a href="' . get_permalink() . '"><img src="' . esc_url($banner_url) . '" alt="' . get_the_title() . '" style="width:100%;height:200px;object-fit:cover;border-radius:4px;margin-bottom:15px;"></a>';
             }
-            $price_val = floatval($event_price);
-
-            $output .= '<div class="upcoming-event-item" style="border:1px solid #ddd;padding:15px;margin-bottom:20px;border-radius:8px;background:#fff;box-shadow:0 2px 5px rgba(0,0,0,0.05);">';
             
             $output .= '<h4 style="margin-top:0;"><a href="' . get_permalink() . '" style="color:#0073aa;text-decoration:none;">' . get_the_title() . '</a></h4>';
 
-            if (!empty($event_datetime)) {
-                $output .= '<p>📅 <strong>Waktu:</strong> ' . esc_html($event_datetime) . '</p>';
+            if (!empty($datetime_formatted)) {
+                $output .= '<p style="margin:5px 0;">📅 <strong>Waktu:</strong> ' . esc_html($datetime_formatted) . '</p>';
             }
 
-            if (!empty($event_location)) {
-                $output .= '<p>📍 <strong>Lokasi:</strong> ' . esc_html($event_location) . '</p>';
+            if (!empty($location)) {
+                $output .= '<p style="margin:5px 0;">📍 <strong>Lokasi:</strong> ' . esc_html($location) . '</p>';
             }
 
             if ($price_val > 0) {
-                $output .= '<p>💰 <strong>Harga:</strong> Rp ' . number_format($price_val, 0, ',', '.') . '</p>';
+                $output .= '<p style="margin:5px 0;">💰 <strong>Harga:</strong> Rp ' . number_format($price_val, 0, ',', '.') . '</p>';
             }
 
             $output .= '</div>';
