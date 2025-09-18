@@ -271,3 +271,68 @@ if ( ! function_exists( 'hello_elementor_body_open' ) ) {
 require HELLO_THEME_PATH . '/theme.php';
 
 HelloTheme\Theme::instance();
+
+function upcoming_events_shortcode_function() {
+    $args = array(
+        'post_type'      => 'event',
+        'posts_per_page' => 3,
+        'meta_key'       => 'event_datetime',
+        'orderby'        => 'meta_value',
+        'order'          => 'ASC',
+        'meta_query'     => array(
+            array(
+                'key'     => 'event_datetime',
+                'value'   => date('Y-m-d H:i:s'),
+                'compare' => '>=',
+                'type'    => 'DATETIME'
+            )
+        )
+    );
+
+    $upcoming_events = new WP_Query($args);
+
+    $output = '<div class="upcoming-events-list">';
+
+    if ($upcoming_events->have_posts()) {
+        while ($upcoming_events->have_posts()) {
+            $upcoming_events->the_post();
+
+            $event_location = pods_field_display('event_location');
+            $event_datetime = pods_field_display('event_datetime');
+            $event_price    = pods_field_display('event_price');
+
+            if (is_array($event_price) && !empty($event_price)) {
+                $event_price = $event_price[0];
+            }
+            $price_val = floatval($event_price);
+
+            $output .= '<div class="upcoming-event-item" style="border:1px solid #ddd;padding:15px;margin-bottom:20px;border-radius:8px;background:#fff;box-shadow:0 2px 5px rgba(0,0,0,0.05);">';
+            
+            $output .= '<h4 style="margin-top:0;"><a href="' . get_permalink() . '" style="color:#0073aa;text-decoration:none;">' . get_the_title() . '</a></h4>';
+
+            if (!empty($event_datetime)) {
+                $output .= '<p>📅 <strong>Waktu:</strong> ' . esc_html($event_datetime) . '</p>';
+            }
+
+            if (!empty($event_location)) {
+                $output .= '<p>📍 <strong>Lokasi:</strong> ' . esc_html($event_location) . '</p>';
+            }
+
+            if ($price_val > 0) {
+                $output .= '<p>💰 <strong>Harga:</strong> Rp ' . number_format($price_val, 0, ',', '.') . '</p>';
+            }
+
+            $output .= '</div>';
+        }
+    } else {
+        $output .= '<p>Tidak ada event mendatang.</p>';
+    }
+
+    $output .= '</div>';
+
+    wp_reset_postdata();
+    return $output;
+}
+add_shortcode('upcoming_events', 'upcoming_events_shortcode_function');
+
+
